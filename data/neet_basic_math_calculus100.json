@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Practice with Infinity interactive question bank">
+  <title>Pradip Kar | Practice with Infinity</title>
+  <style>
+    :root {
+      --ink:#12172b; --mut:#5b6480; --line:#e2e7f3; --brand:#2b3a8f;
+      --brand2:#6d28d9; --easy:#0f9d58; --bg:#eef1f8;
+    }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 "Segoe UI",system-ui,-apple-system,"Noto Sans",Arial,sans-serif; }
+    .wrap { width:min(100% - 24px,1020px); margin:0 auto; padding:20px 0 54px; }
+    .hero { color:#fff; text-align:center; padding:28px 22px; border-radius:20px; background:linear-gradient(135deg,#111a45,#2b3a8f 52%,#6d28d9); box-shadow:0 14px 34px #141e5040; }
+    .hero .badge { display:inline-block; padding:4px 13px; border:1px solid #ffffff50; border-radius:999px; background:#ffffff18; font-size:13px; font-weight:700; }
+    .hero h1 { margin:10px 0 2px; font-size:clamp(27px,5vw,38px); line-height:1.2; }
+    .hero .channel { margin:0; font-size:17px; }
+    .hero .channel b { color:#ffe08a; }
+    .hero .intro { max-width:720px; margin:12px auto 0; opacity:.9; font-size:14px; }
+    .scorebar { position:sticky; top:8px; z-index:5; display:flex; align-items:center; flex-wrap:wrap; gap:8px; margin:14px 0 18px; padding:10px 12px; border-radius:14px; color:#fff; background:linear-gradient(135deg,#141c46,#2b3a8f); box-shadow:0 6px 18px #141e5040; }
+    .scorebar[hidden] { display:none; }
+    .scorebar .sb { padding:4px 11px; border:1px solid #ffffff35; border-radius:999px; background:#ffffff18; font-size:13px; white-space:nowrap; }
+    .scorebar .score { background:#ffffff30; font-weight:700; }
+    .scorebar .message { display:none; flex:1 1 100%; padding:2px 4px 0; font-size:13px; }
+    .scorebar button { margin-left:auto; padding:6px 13px; border:1px solid #ffffff55; border-radius:999px; color:#fff; background:#ffffff18; font-family:inherit; font-size:13px; font-weight:700; cursor:pointer; }
+    .scorebar button:hover { background:#ffffff30; }
+    #status { margin:18px 0; padding:14px 16px; border:1px solid #ccd6f5; border-radius:12px; background:#fff; color:var(--mut); }
+    #status.error { border-color:#f5b5b5; background:#fff1f1; color:#8d2020; }
+    .q { margin:14px 0; padding:16px 18px 13px; border:1px solid var(--line); border-radius:14px; background:#fff; box-shadow:0 2px 8px #141e500d; break-inside:avoid; }
+    .qh { display:flex; align-items:center; flex-wrap:wrap; gap:8px; margin-bottom:8px; }
+    .qn { display:inline-flex; min-width:36px; height:30px; align-items:center; justify-content:center; padding:0 8px; border-radius:10px; color:#fff; background:var(--brand); font-size:14px; font-weight:800; }
+    .tag { display:inline-block; padding:3px 10px; border:1px solid transparent; border-radius:999px; font-size:12px; font-weight:700; white-space:nowrap; }
+    .t-easy { color:#0b6b3e; background:#e9f7ef; border-color:#b6e2c6; }
+    .t-mod { color:#92510a; background:#fff4e2; border-color:#f3d998; }
+    .t-hard { color:#9a3b0d; background:#ffeadf; border-color:#f7c1a4; }
+    .t-elite { color:#9b1c1c; background:#fdeaea; border-color:#f3b3b3; }
+    .t-concept { color:#33418f; background:#eef1fb; border-color:#ccd6f5; }
+    .stem { margin:6px 0 12px; font-size:16.5px; font-weight:600; }
+    svg { max-width:100%; vertical-align:middle; }
+    img { max-width:100%; height:auto; }
+    .qfig { margin:8px auto 14px; padding:10px 12px 8px; border:1px dashed #ccd6f5; border-radius:12px; background:#fbfcff; text-align:center; }
+    .qfig img { display:block; max-width:100%; height:auto; margin:0 auto; }
+    .qfig figcaption { margin-top:8px; color:var(--mut); font-size:13px; line-height:1.5; }
+    .opts { display:grid; grid-template-columns:1fr 1fr; gap:8px 16px; margin:0; padding:0; list-style:none; }
+    .opts li { display:flex; align-items:center; gap:10px; min-height:44px; margin:0; padding:8px 12px; border:1px solid var(--line); border-radius:10px; background:#fafbff; font-size:15.5px; cursor:pointer; transition:background .15s,border-color .15s,transform .06s; }
+    .opts li:hover { border-color:#94a0c8; background:#f2f5ff; }
+    .opts li:active { transform:scale(.995); }
+    .opts li:focus-visible { outline:3px solid #94a0c8; outline-offset:2px; }
+    .opts b { display:inline-flex; flex:0 0 auto; align-items:center; justify-content:center; align-self:flex-start; min-width:22px; height:22px; border-radius:7px; color:#fff; background:#94a0c8; font-size:12.5px; }
+    .q.answered .opts li { cursor:default; }
+    .q.answered .opts li:hover { background:inherit; }
+    .opts li.pick-ok { border-color:#0f9d58 !important; background:#e7f7ee !important; box-shadow:inset 0 0 0 1px #0f9d58; }
+    .opts li.pick-ok b { background:#0f9d58; }
+    .opts li.pick-no { border-color:#dc2626 !important; background:#fdecec !important; box-shadow:inset 0 0 0 1px #dc2626; }
+    .opts li.pick-no b { background:#dc2626; }
+    .fb { display:none; margin:12px 0 0; padding:10px 14px; border-radius:10px; font-size:15px; }
+    .fb.show { display:block; }
+    .fb-ok { border:1px solid #b6e2c6; border-left:5px solid #0f9d58; background:#eaf7ef; }
+    .fb-no { border:1px solid #f5b5b5; border-left:5px solid #dc2626; background:#fdecec; }
+    .qfoot { margin-top:10px; }
+    .showSol { padding:7px 14px; border:1px solid #ccd6f5; border-radius:9px; color:#2b3a8f; background:#f2f5fd; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer; }
+    .showSol:hover { background:#e4eaf9; }
+    .expl { display:none; margin-top:12px; padding:6px 16px 14px; border:1px solid #dfe6fa; border-left:5px solid var(--brand2); border-radius:12px; background:#f7f9ff; }
+    .expl.show { display:block; }
+    .expl-h { margin:12px 0 6px; color:#2b3a8f; font-size:16px; font-weight:800; }
+    .expl-h small { color:var(--mut); font-weight:500; }
+    .ansline { margin:10px 0; padding:8px 12px; border:1px solid #b6e2c6; border-radius:8px; color:#0b6b3e; background:#eaf7ef; }
+    .step,.concept,.trap,.hook { margin:9px 0; padding:9px 12px; border-radius:9px; line-height:1.8; }
+    .step { padding-left:2px; }
+    .concept { border:1px solid #d6e2ff; background:#eef4ff; }
+    .trap { border:1px solid #f6e3bd; background:#fff7ea; }
+    .hook { border:1px solid #bfe9d2; background:#eafaf1; }
+    .credit { display:block; margin-top:12px; padding-top:8px; border-top:1px dashed #e6eaf6; color:#8894bd; text-align:right; font-size:10.5px; letter-spacing:.35px; line-height:1.5; }
+    .credit b { color:#5b6480; }
+    .expl .credit { border-top-color:#dfe6fa; color:#9aa5c8; }
+    .sitefoot { margin-top:28px; padding:18px 12px; border-radius:14px; color:#d5dbf1; background:#0d1330; text-align:center; font-size:13px; }
+    .sitefoot b { color:#fff; }
+    #svg-definitions { position:absolute; width:0; height:0; overflow:hidden; }
+    @media (max-width:650px) { .opts { grid-template-columns:1fr; } .q { padding:14px 12px; } .scorebar { top:4px; } }
+    @media print { body { background:#fff; } .scorebar,.qfoot,.fb { display:none !important; } .expl { display:block !important; border:0; background:#fff; } .q,.hero { box-shadow:none; } }
+  </style>
+</head>
+<body>
+  <div id="svg-definitions" aria-hidden="true"></div>
+  <div class="wrap">
+    <header class="hero">
+      <span class="badge">🧑‍🏫 Mentor · Physics &amp; Maths</span>
+      <h1 id="author-name">Pradip Kar</h1>
+      <p class="channel">▶️ YouTube — <b id="channel-name">Practice with Infinity</b></p>
+      <p class="intro">Question practice with instant right/wrong feedback and detailed explanation. Correct answer: +4 · Wrong answer: −1.</p>
+    </header>
+
+    <section class="scorebar" id="scorebar" aria-label="Quiz progress" hidden>
+      <span class="sb">Attempted <b id="sb-att">0</b> / <b id="sb-total">0</b></span>
+      <span class="sb">Correct <b id="sb-c">0</b></span>
+      <span class="sb">Wrong <b id="sb-w">0</b></span>
+      <span class="sb score">Score <b id="sb-s">0</b></span>
+      <button type="button" id="sb-reset">Reset answers</button>
+      <span class="message" id="sb-msg"></span>
+    </section>
+
+    <div id="status" role="status" aria-live="polite">Questions load ho rahe hain…</div>
+    <main id="questions" aria-label="Question bank"></main>
+    <footer class="sitefoot">© <b>Pradip Kar</b> · Practice with Infinity</footer>
+  </div>
+
+  <script>
+    (function () {
+      'use strict';
+      const $ = (selector, root) => (root || document).querySelector(selector);
+      const safeText = (value) => String(value == null ? '' : value).replace(/[&<>"']/g, (ch) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+      const allowedClasses = new Set(['t-easy','t-mod','t-hard','t-elite','t-concept']);
+      const className = (value, fallback) => allowedClasses.has(value) ? value : fallback;
+      const storageKey = 'practice-infinity-quiz:' + location.pathname;
+      let cards = [];
+      let answers = {};
+
+      function saveAnswers() {
+        try { localStorage.setItem(storageKey, JSON.stringify(answers)); } catch (_) {}
+      }
+
+      function paint(card, record) {
+        const answer = card.dataset.ans;
+        const picked = record && record.p;
+        if (!picked || !card.querySelector('.opts li[data-opt="' + picked + '"]')) return;
+        const chosen = card.querySelector('.opts li[data-opt="' + picked + '"]');
+        chosen.classList.add(picked === answer ? 'pick-ok' : 'pick-no');
+        if (picked !== answer) {
+          const right = card.querySelector('.opts li[data-opt="' + answer + '"]');
+          if (right) right.classList.add('pick-ok');
+        }
+        const correct = picked === answer;
+        const feedback = $('.fb', card);
+        feedback.className = 'fb show ' + (correct ? 'fb-ok' : 'fb-no');
+        feedback.innerHTML = correct
+          ? '✅ <b>Sahi jawab! +4</b> &nbsp;—&nbsp; option <b>' + safeText(picked) + '</b> bilkul correct hai. Neeche poori explanation padho.'
+          : '❌ <b>Galat — −1</b> &nbsp;|&nbsp; sahi jawab <b>' + safeText(answer) + '</b> hai (tumne ' + safeText(picked) + ' chuna). Neeche detailed explanation padho.';
+        card.dataset.state = correct ? 'ok' : 'no';
+        card.classList.add('answered');
+        card.querySelectorAll('.opts li').forEach((li) => li.setAttribute('aria-disabled','true'));
+        const explanation = $('.expl', card);
+        if (explanation) explanation.classList.add('show');
+        const button = $('.showSol', card);
+        if (button) button.hidden = true;
+      }
+
+      function updateStats() {
+        let attempted=0, correct=0, wrong=0;
+        cards.forEach((card) => {
+          if (card.dataset.state === 'ok') { attempted++; correct++; }
+          else if (card.dataset.state === 'no') { attempted++; wrong++; }
+        });
+        $('#sb-att').textContent = attempted;
+        $('#sb-c').textContent = correct;
+        $('#sb-w').textContent = wrong;
+        $('#sb-s').textContent = (4 * correct) - wrong;
+        const msg = $('#sb-msg');
+        if (attempted === cards.length && cards.length) {
+          const score = (4 * correct) - wrong;
+          msg.textContent = score >= 380 ? '🏆 Chapter mastery! Next chapter chalo.'
+            : score >= 300 ? '💪 Strong! Elite questions dobara karo.'
+            : score >= 240 ? '📈 Theek hai — calculus drills karo.'
+            : '📚 Basics revise karo, phir retake.';
+          msg.style.display = 'block';
+        } else {
+          msg.style.display = 'none';
+        }
+      }
+
+      function renderQuestion(question, total) {
+        const card = document.createElement('article');
+        const id = Number(question.id);
+        const answer = String(question.correctAnswer || '').toUpperCase();
+        card.className = 'q';
+        card.id = 'question-' + id;
+        card.dataset.q = String(id);
+        card.dataset.ans = answer;
+        const optionsHtml = (question.options || []).map((option) => {
+          const optionId = String(option.id || '').toUpperCase();
+          return '<li data-opt="' + safeText(optionId) + '" role="button" tabindex="0" aria-disabled="false">' + (option.html || '') + '</li>';
+        }).join('');
+        const footerHtml = question.footerCreditHtml || ('© <b>' + safeText(question.author || 'Pradip Kar') + '</b> · ' + safeText(question.youtubeChannel || 'Practice with Infinity') + ' — Q' + id + ' / ' + total);
+        card.innerHTML =
+          '<div class="qh">' +
+            '<span class="qn">' + id + '</span>' +
+            '<span class="tag ' + className(question.difficultyClass,'t-easy') + '">' + (question.difficultyHtml || safeText(question.difficulty || '')) + '</span>' +
+            '<span class="tag ' + className(question.topicClass,'t-concept') + '">' + (question.topicHtml || safeText(question.topic || '')) + '</span>' +
+          '</div>' +
+          '<div class="stem">' + (question.questionHtml || '') + '</div>' +
+          (question.figureHtml || '') +
+          '<ul class="opts" aria-label="Answer choices">' + optionsHtml + '</ul>' +
+          '<div class="fb" aria-live="polite"></div>' +
+          '<div class="qfoot"><button class="showSol" type="button" aria-expanded="false">🔍 Solution dekho (bina attempt kiye)</button></div>' +
+          '<div class="expl">' + (question.explanationHtml || '') + '</div>' +
+          '<div class="credit">' + footerHtml + '</div>';
+        return card;
+      }
+
+      function choose(card, option) {
+        if (card.dataset.state) return;
+        const picked = option.dataset.opt;
+        const record = {p:picked};
+        answers[card.dataset.q] = record;
+        saveAnswers();
+        paint(card,record);
+        updateStats();
+      }
+
+      function showError(message) {
+        const status = $('#status');
+        status.className = 'error';
+        status.textContent = message;
+      }
+
+      async function init() {
+        try {
+          const response = await fetch('./questions.json');
+          if (!response.ok) throw new Error('questions.json load nahi ho payi.');
+          const data = await response.json();
+          if (!data || !Array.isArray(data.questions)) throw new Error('questions.json ka format sahi nahi hai.');
+
+          $('#author-name').textContent = data.author || 'Pradip Kar';
+          $('#channel-name').textContent = data.youtubeChannel || 'Practice with Infinity';
+          if (data.title) document.title = data.title;
+          if (data.svgDefinitionsHtml) $('#svg-definitions').innerHTML = data.svgDefinitionsHtml;
+          $('#sb-total').textContent = data.questions.length;
+          $('#scorebar').hidden = false;
+
+          const container = $('#questions');
+          const fragment = document.createDocumentFragment();
+          data.questions.forEach((question) => fragment.appendChild(renderQuestion(question,data.questions.length)));
+          container.appendChild(fragment);
+          cards = Array.from(container.querySelectorAll('.q'));
+          try { answers = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch (_) { answers = {}; }
+
+          cards.forEach((card) => {
+            card.querySelectorAll('.opts li').forEach((option) => {
+              option.addEventListener('click',() => choose(card,option));
+              option.addEventListener('keydown',(event) => {
+                if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); choose(card,option); }
+              });
+            });
+            const button = $('.showSol',card);
+            if (button) button.addEventListener('click',() => {
+              const explanation = $('.expl',card);
+              const open = explanation.classList.toggle('show');
+              button.setAttribute('aria-expanded',String(open));
+              button.textContent = open ? '🙈 Explanation chhupao' : '🔍 Solution dekho (bina attempt kiye)';
+            });
+            const saved = answers[card.dataset.q];
+            if (saved && saved.p) paint(card,saved);
+          });
+
+          updateStats();
+          $('#status').remove();
+          $('#sb-reset').addEventListener('click',() => {
+            const any = cards.some((card) => card.dataset.state);
+            if (!any || confirm('Poora test reset kar dein? Saare answers mit jayenge.')) {
+              answers = {};
+              saveAnswers();
+              location.reload();
+            }
+          });
+        } catch (error) {
+          showError((error && error.message ? error.message : 'Quiz load nahi ho paya.') + ' GitHub Pages par index.html, questions.json aur assets/ folder ko saath rakhein; file ko seedha file:// se kholne par fetch block ho sakta hai.');
+        }
+      }
+      init();
+    })();
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4c01ab1ac4d74eb',t:'MTc5MjI0ODUwNw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
