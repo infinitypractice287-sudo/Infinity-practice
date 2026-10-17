@@ -1,0 +1,2807 @@
+{
+  "author": "Pradip Kar",
+  "youtubeChannel": "Practice with Infinity",
+  "title": "Basic Math & Calculus · Q101–Q200 · Physics",
+  "questions": [
+    {
+      "id": 101,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "The magnitude of the vector A = 3î − 4ĵ is",
+      "options": [
+        {
+          "id": "A",
+          "html": "√7"
+        },
+        {
+          "id": "B",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "html": "7"
+        },
+        {
+          "id": "D",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>|A| = √(3² + (−4)²) = √25 = 5</div><div class='step'><i>Step 2 — </i>Component ka negative nishaan square me khatam ho jaata hai</div><div class='step'><i>Step 3 — </i>Magnitude hamesha positive hota hai, isliye −5 kabhi nahi.</div>"
+    },
+    {
+      "id": 102,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "For the scalars p = 5 and q = −2, the values of p + q and p · q are respectively",
+      "options": [
+        {
+          "id": "A",
+          "html": "3 and −7"
+        },
+        {
+          "id": "B",
+          "html": "10 and 3"
+        },
+        {
+          "id": "C",
+          "html": "3 and −10"
+        },
+        {
+          "id": "D",
+          "html": "−7 and −10"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Scalar me keval sankhya hoti hai, disha nahi</div><div class='step'><i>Step 2 — </i>Addition: p + q = 5 + (−2) = 3</div><div class='step'><i>Step 3 — </i>Multiplication: p · q = 5 × (−2) = −10, nishaan badal jaata hai.</div>"
+    },
+    {
+      "id": 103,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "Which of the following is NOT a unit vector",
+      "options": [
+        {
+          "id": "A",
+          "html": "î"
+        },
+        {
+          "id": "B",
+          "html": "0.6î + 0.8ĵ"
+        },
+        {
+          "id": "C",
+          "html": "−ĵ"
+        },
+        {
+          "id": "D",
+          "html": "î + ĵ"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Unit vector ka magnitude exactly 1 hona chahiye</div><div class='step'><i>Step 2 — </i>|î + ĵ| = √(1 + 1) = √2 ≠ 1, atah yeh unit vector nahi</div><div class='step'><i>Step 3 — </i>|0.6î + 0.8ĵ| = √(0.36 + 0.64) = 1 ✓</div><div class='step'><i>Step 4 — </i>kisi bhi vector ko uske magnitude se divide karne se unit vector ban jaata hai.</div>"
+    },
+    {
+      "id": 104,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "If |A| = 3, |B| = 4 and A · B = 6, the angle between the two vectors is",
+      "options": [
+        {
+          "id": "A",
+          "html": "60°"
+        },
+        {
+          "id": "B",
+          "html": "30°"
+        },
+        {
+          "id": "C",
+          "html": "90°"
+        },
+        {
+          "id": "D",
+          "html": "45°"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Definition A · B = AB cosθ se cosθ = {6~12} = 0.5</div><div class='step'><i>Step 2 — </i>θ = cos⁻¹(0.5) = 60°</div><div class='step'><i>Step 3 — </i>Dot product ka result scalar hota hai — keval sankhya, disha nahi.</div>"
+    },
+    {
+      "id": 105,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "If A = 2î + 3ĵ + x k̂ and B = î − 2ĵ + 4 k̂ are perpendicular to each other, then x equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "−1"
+        },
+        {
+          "id": "B",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "html": "0"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Perpendicular ka arth A · B = 0</div><div class='step'><i>Step 2 — </i>Components ka product jodo: 2(1) + 3(−2) + x(4) = 0</div><div class='step'><i>Step 3 — </i>2 − 6 + 4x = 0 se x = 1</div><div class='step'><i>Step 4 — </i>do vectors perpendicular ho sakte hain bina zero bane — yahi dot product ki khaasiyat hai.</div>"
+    },
+    {
+      "id": 106,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "If |A| = 3, |B| = 4 and the angle between them is 30°, then the magnitude |A × B| equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "6√3"
+        },
+        {
+          "id": "B",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "html": "12"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Formula |A × B| = AB sinθ = 3 × 4 × sin 30°</div><div class='step'><i>Step 2 — </i>sin 30° = {1~2}, atah magnitude = 6</div><div class='step'><i>Step 3 — </i>12 tab milta agar sin 30° ki jagah 1 rakh dete</div><div class='step'><i>Step 4 — </i>direction plane ke normal par hoti hai (right-hand rule).</div>"
+    },
+    {
+      "id": 107,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "If A · (B × C) = 5, then the value of (A × B) · C is",
+      "options": [
+        {
+          "id": "A",
+          "html": "−5"
+        },
+        {
+          "id": "B",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "html": "25"
+        },
+        {
+          "id": "D",
+          "html": "5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Scalar triple product cyclic order me aprivaartit rehta hai: A · (B × C) = B · (C × A) = C · (A × B)</div><div class='step'><i>Step 2 — </i>iskar (A × B) · C = 5</div><div class='step'><i>Step 3 — </i>koi do vectors aapas me swap karo to keval nishaan badalta hai.</div>"
+    },
+    {
+      "id": 108,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "For two non-zero vectors, the two conditions A · B = 0 and A × B = 0 cannot hold simultaneously. The reason is",
+      "options": [
+        {
+          "id": "A",
+          "html": "The two conditions are contradictory"
+        },
+        {
+          "id": "B",
+          "html": "They hold at θ = 0°"
+        },
+        {
+          "id": "C",
+          "html": "They hold at θ = 90°"
+        },
+        {
+          "id": "D",
+          "html": "They hold when A = B"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>A · B = AB cosθ = 0 se cosθ = 0, yaani θ = 90°</div><div class='step'><i>Step 2 — </i>A × B = AB sinθ = 0 se sinθ = 0, yaani θ = 0° ya 180°</div><div class='step'><i>Step 3 — </i>ek hi angle dono shartein poori nahi kar sakta, atah dono conditions virodhi hain.</div>"
+    },
+    {
+      "id": 109,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "The magnitude of the resultant of the displacements d₁ = 2î + 3ĵ, d₂ = −î + ĵ and d₃ = 4î − 3ĵ, in metres, is",
+      "options": [
+        {
+          "id": "A",
+          "html": "7"
+        },
+        {
+          "id": "B",
+          "html": "√26 ≈ 5.1"
+        },
+        {
+          "id": "C",
+          "html": "13"
+        },
+        {
+          "id": "D",
+          "html": "√193"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Same axis ke components alag-alag jodo: Rₓ = 2 − 1 + 4 = 5, R_y = 3 + 1 − 3 = 1</div><div class='step'><i>Step 2 — </i>|R| = √(5² + 1²) = √26 ≈ 5.1 m</div><div class='step'><i>Step 3 — </i>13 m keval tab aata hai jab teeno displacements ek hi line me hon.</div>"
+    },
+    {
+      "id": 110,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "If y = x³ + 5x, then {dy~dx} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "x² + 5"
+        },
+        {
+          "id": "B",
+          "html": "3x + 5"
+        },
+        {
+          "id": "C",
+          "html": "3x² + 5"
+        },
+        {
+          "id": "D",
+          "html": "3x² + 5x"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Power rule {d~dx} xⁿ = nx^(n−1) ko har pad par alag-alag lagu karo</div><div class='step'><i>Step 2 — </i>{d(x³)~dx} = 3x² aur {d(5x)~dx} = 5</div><div class='step'><i>Step 3 — </i>uttar 3x² + 5 — 5, x se guna hone wala constant hai, isliye derivative me bacha rehta hai.</div>"
+    },
+    {
+      "id": 111,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "The derivative {d(√x)~dx} is equal to",
+      "options": [
+        {
+          "id": "A",
+          "html": "2√x"
+        },
+        {
+          "id": "B",
+          "html": "{1~√x}"
+        },
+        {
+          "id": "C",
+          "html": "{√x~2}"
+        },
+        {
+          "id": "D",
+          "html": "{1~2√x}"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>√x ko x^({1~2}) roop me likho</div><div class='step'><i>Step 2 — </i>power rule se {1~2}x^(−{1~2}) = {1~2√x}</div><div class='step'><i>Step 3 — </i>x = 0 par yeh infinite ho jaata hai, kyunki vahaan curve vertical (y-axis ko sparsh) ho jaata hai.</div>"
+    },
+    {
+      "id": 112,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "Differentiate x² sin x with respect to x.",
+      "options": [
+        {
+          "id": "A",
+          "html": "2x sin x + x² cos x"
+        },
+        {
+          "id": "B",
+          "html": "2x cos x"
+        },
+        {
+          "id": "C",
+          "html": "x² cos x"
+        },
+        {
+          "id": "D",
+          "html": "2x sin x − x² cos x"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Product rule lagao: (uv)′ = u′v + uv′</div><div class='step'><i>Step 2 — </i>yahaan u = x², u′ = 2x, v = sin x, v′ = cos x</div><div class='step'><i>Step 3 — </i>uttar 2x sin x + x² cos x — dono pad plus me jodte hain, minus nahi aata.</div>"
+    },
+    {
+      "id": 113,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "The derivative {dv~dx} of the function v = {x~x²} is",
+      "options": [
+        {
+          "id": "A",
+          "html": "ln x"
+        },
+        {
+          "id": "B",
+          "html": "−{1~x²}"
+        },
+        {
+          "id": "C",
+          "html": "{1~x²}"
+        },
+        {
+          "id": "D",
+          "html": "2x"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Pehle cancel karke simplify karo: {x~x²} = {1~x} = x⁻¹</div><div class='step'><i>Step 2 — </i>derivative = −1 · x⁻² = −{1~x²}</div><div class='step'><i>Step 3 — </i>quotient rule se bhi wahi milta hai, par pehle simplify karna tez aur galti-rahit hai.</div>"
+    },
+    {
+      "id": 114,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "If u = sin 3x, then {du~dx} is",
+      "options": [
+        {
+          "id": "A",
+          "html": "−3 cos 3x"
+        },
+        {
+          "id": "B",
+          "html": "3 sin 3x"
+        },
+        {
+          "id": "C",
+          "html": "3 cos 3x"
+        },
+        {
+          "id": "D",
+          "html": "cos 3x"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Chain rule: bahar wale ka derivative cos 3x, andar wale 3x ka derivative 3</div><div class='step'><i>Step 2 — </i>dono ko guna karo: 3 cos 3x</div><div class='step'><i>Step 3 — </i>keval cos 3x likh dena sabse common pariksha-truti hai.</div>"
+    },
+    {
+      "id": 115,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "The slope of the curve y = e^(2x) at the point x = 0 is",
+      "options": [
+        {
+          "id": "A",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "html": "e²"
+        },
+        {
+          "id": "C",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>{dy~dx} = 2e^(2x) — chain rule ka factor 2 bahar aata hai</div><div class='step'><i>Step 2 — </i>x = 0 rakhne par 2e⁰ = 2 × 1 = 2</div><div class='step'><i>Step 3 — </i>slope ka arth tanα, jahaan α tangent ka x-axis se bana angle hai.</div>"
+    },
+    {
+      "id": 116,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "{d~dx} ln 5x equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "{1~x}"
+        },
+        {
+          "id": "B",
+          "html": "{5~x}"
+        },
+        {
+          "id": "C",
+          "html": "{1~5x}"
+        },
+        {
+          "id": "D",
+          "html": "ln 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Log ka rule: ln 5x = ln 5 + ln x</div><div class='step'><i>Step 2 — </i>ln 5 ek constant hai, iska derivative zero</div><div class='step'><i>Step 3 — </i>bachta hai {1~x} — log ke andar ka constant factor slope nahi badalta.</div>"
+    },
+    {
+      "id": 117,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "If y = x^(-2) cos x, then {dy~dx} is",
+      "options": [
+        {
+          "id": "A",
+          "html": "x^(-2) sin x"
+        },
+        {
+          "id": "B",
+          "html": "−2x^(-3) cos x − x^(-2) sin x"
+        },
+        {
+          "id": "C",
+          "html": "2x^(-1) sin x"
+        },
+        {
+          "id": "D",
+          "html": "−2x^(-3) cos x + x^(-2) sin x"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Product rule: u = x^(-2) aur v = cos x</div><div class='step'><i>Step 2 — </i>u′ = −2x^(-3), v′ = −sin x</div><div class='step'><i>Step 3 — </i>uttar −2x^(-3) cos x − x^(-2) sin x</div><div class='step'><i>Step 4 — </i>donon pad negative hain kyonki x badhne par dono factors ghatte hain.</div>"
+    },
+    {
+      "id": 118,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "If x = t² and y = t³, then {dy~dx} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "3t²"
+        },
+        {
+          "id": "B",
+          "html": "2t"
+        },
+        {
+          "id": "C",
+          "html": "{3t~2}"
+        },
+        {
+          "id": "D",
+          "html": "{2t~3}"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Parametric rule: {dy~dx} = {dy~dt} ÷ {dx~dt}</div><div class='step'><i>Step 2 — </i>{dy~dt} = 3t² aur {dx~dt} = 2t</div><div class='step'><i>Step 3 — </i>anupat {3t²~2t} = {3t~2}</div><div class='step'><i>Step 4 — </i>t = 0 par dono derivatives zero hain, vahaan yeh vidhi kaam nahi karti.</div>"
+    },
+    {
+      "id": 119,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "For a displacement given by x = A sin ωt, the acceleration is",
+      "options": [
+        {
+          "id": "A",
+          "html": "ω²x"
+        },
+        {
+          "id": "B",
+          "html": "−Aω sin ωt"
+        },
+        {
+          "id": "C",
+          "html": "ω²A sin ωt"
+        },
+        {
+          "id": "D",
+          "html": "−ω²x"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>v = {dx~dt} = Aω cos ωt</div><div class='step'><i>Step 2 — </i>phir a = {dv~dt} = −Aω² sin ωt</div><div class='step'><i>Step 3 — </i>kyonki x = A sin ωt, atah a = −ω²x</div><div class='step'><i>Step 4 — </i>acceleration, displacement ke samanupati aur uske viparit disha me — yahi SHM ki paribhasha hai.</div>"
+    },
+    {
+      "id": 120,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "If f(t) = (3t² + 1)(2t − 1), then f′(t) is",
+      "options": [
+        {
+          "id": "A",
+          "html": "18t² − 6t + 2"
+        },
+        {
+          "id": "B",
+          "html": "6t² + 2"
+        },
+        {
+          "id": "C",
+          "html": "12t"
+        },
+        {
+          "id": "D",
+          "html": "18t² + 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Product rule: (6t)(2t − 1) + (3t² + 1)(2)</div><div class='step'><i>Step 2 — </i>brackets kholo: 12t² − 6t + 6t² + 2</div><div class='step'><i>Step 3 — </i>jodne par 18t² − 6t + 2</div><div class='step'><i>Step 4 — </i>pehle brackets kholkar differentiate karke bhi yahi check kar sakte ho.</div>"
+    },
+    {
+      "id": 121,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "{d~dx} ln(cos x) equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "−cot x"
+        },
+        {
+          "id": "B",
+          "html": "−tan x"
+        },
+        {
+          "id": "C",
+          "html": "tan x"
+        },
+        {
+          "id": "D",
+          "html": "sec x"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Chain rule: {d~du} ln u = {1~u}, yahaan u = cos x</div><div class='step'><i>Step 2 — </i>{du~dx} = −sin x, atah {1~cos x} × (−sin x)</div><div class='step'><i>Step 3 — </i>uttar −tan x — andar ka function ghat raha hai, isliye nishaan negative.</div>"
+    },
+    {
+      "id": 122,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "{d~dx} {x + 1~x − 1} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "{1~x² − 1}"
+        },
+        {
+          "id": "B",
+          "html": "{2x~(x − 1)²}"
+        },
+        {
+          "id": "C",
+          "html": "−{2~(x − 1)²}"
+        },
+        {
+          "id": "D",
+          "html": "{2~(x − 1)²}"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Quotient rule me numerator: (1)(x − 1) − (x + 1)(1) = −2</div><div class='step'><i>Step 2 — </i>denominator = (x − 1)², jo hamesha positive hai</div><div class='step'><i>Step 3 — </i>uttar −{2~(x − 1)²} — nishaan ka faisala sirf numerator karta hai.</div>"
+    },
+    {
+      "id": 123,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "Differentiate x eˣ with respect to x.",
+      "options": [
+        {
+          "id": "A",
+          "html": "x eˣ"
+        },
+        {
+          "id": "B",
+          "html": "eˣ"
+        },
+        {
+          "id": "C",
+          "html": "eˣ(x − 1)"
+        },
+        {
+          "id": "D",
+          "html": "eˣ(1 + x)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Product rule: (x)′eˣ + x(eˣ)′ = eˣ + x eˣ</div><div class='step'><i>Step 2 — </i>eˣ common lo: eˣ(1 + x)</div><div class='step'><i>Step 3 — </i>yahi identity aage ∫ eˣ(1 + x)dx = x eˣ + C ban jaati hai.</div>"
+    },
+    {
+      "id": 124,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫ x² dx equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "{x³~3} + C"
+        },
+        {
+          "id": "B",
+          "html": "2x + C"
+        },
+        {
+          "id": "C",
+          "html": "x³ + C"
+        },
+        {
+          "id": "D",
+          "html": "{x²~2} + C"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Rule ∫ xⁿdx = {xⁿ⁺¹~n + 1} + C me n = 2 rakho</div><div class='step'><i>Step 2 — </i>uttar {x³~3} + C</div><div class='step'><i>Step 3 — </i>janch: {d~dx}{x³~3} = x² ✓</div><div class='step'><i>Step 4 — </i>2x + C to derivative ka answer hai, integral ka nahi.</div>"
+    },
+    {
+      "id": 125,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫₁² {dx~x²} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "−{1~2}"
+        },
+        {
+          "id": "B",
+          "html": "{1~2}"
+        },
+        {
+          "id": "C",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "html": "ln 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>x⁻² ka antiderivative = −x⁻¹ = −{1~x}</div><div class='step'><i>Step 2 — </i>upper limit par −{1~2}, lower limit par −1</div><div class='step'><i>Step 3 — </i>difference = −{1~2} − (−1) = {1~2}</div><div class='step'><i>Step 4 — </i>ln 2 tab aata jab integrand {1~x} hota.</div>"
+    },
+    {
+      "id": 126,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫_(0)^(π) sin x dx equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "html": "π"
+        },
+        {
+          "id": "C",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "html": "0"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>∫ sin x dx = −cos x (minus ka dhyan rakho)</div><div class='step'><i>Step 2 — </i>limits: (−cos π) − (−cos 0) = 1 + 1</div><div class='step'><i>Step 3 — </i>uttar 2, kyonki 0 se π tak curve positive hai</div><div class='step'><i>Step 4 — </i>π se 2π tak isi ka value −2 aayega.</div>"
+    },
+    {
+      "id": 127,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫ cos ax dx, where a is a non-zero constant, equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "−{sin(ax)~a} + C"
+        },
+        {
+          "id": "B",
+          "html": "a sin(ax) + C"
+        },
+        {
+          "id": "C",
+          "html": "{cos(ax)~a} + C"
+        },
+        {
+          "id": "D",
+          "html": "{sin(ax)~a} + C"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Andar ka constant a divide karke bahar aa jaata hai: {sin(ax)~a} + C</div><div class='step'><i>Step 2 — </i>janch karo: {d~dx}{sin(ax)~a} = cos(ax) ✓</div><div class='step'><i>Step 3 — </i>a se guna karna (a sin ax) truti hai.</div>"
+    },
+    {
+      "id": 128,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫_(0)^(a) {dx~√(a² − x²)} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "{π~2}"
+        },
+        {
+          "id": "B",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "html": "sin⁻¹ a"
+        },
+        {
+          "id": "D",
+          "html": "π"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Standard form: ∫ {dx~√(a² − x²)} = sin⁻¹{x~a}</div><div class='step'><i>Step 2 — </i>limits: sin⁻¹{a~a} − sin⁻¹0 = sin⁻¹1 − 0</div><div class='step'><i>Step 3 — </i>uttar {π~2}. x = a par integrand infinite ho jaata hai, phir bhi kshetraphal simit hai.</div>"
+    },
+    {
+      "id": 129,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫₀¹ eˣ dx equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "ln 2"
+        },
+        {
+          "id": "B",
+          "html": "e − 1"
+        },
+        {
+          "id": "C",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "html": "e"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>eˣ ka antiderivative svayan eˣ hota hai</div><div class='step'><i>Step 2 — </i>limits: e¹ − e⁰ = e − 1 ≈ 1.718</div><div class='step'><i>Step 3 — </i>e⁰ = 1 ghatana bhoolne par galat option 'e' dikhega — wahi trap yahaan rakha gaya hai.</div>"
+    },
+    {
+      "id": 130,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫₋ₐᵃ x³ dx equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "a⁴"
+        },
+        {
+          "id": "B",
+          "html": "−a⁴"
+        },
+        {
+          "id": "C",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "html": "{2a⁴~4}"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>x³ ek odd function hai, arthaat f(−x) = −f(x)</div><div class='step'><i>Step 2 — </i>origin ke donon taraf ke kshetraphal same magnitude par opposite nishaan ke hote hain, atah yog zero</div><div class='step'><i>Step 3 — </i>even function (x² ya |x|) me value double ho jaati.</div>"
+    },
+    {
+      "id": 131,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫ {x dx~x² + 1} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "ln(x² + 1) + C"
+        },
+        {
+          "id": "B",
+          "html": "tan⁻¹ x + C"
+        },
+        {
+          "id": "C",
+          "html": "{x²~2} ln(x² + 1) + C"
+        },
+        {
+          "id": "D",
+          "html": "{1~2} ln(x² + 1) + C"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Put u = x² + 1, tab du = 2x dx, arthaat x dx = {du~2}</div><div class='step'><i>Step 2 — </i>integral = {1~2}∫ {du~u} = {1~2} ln(x² + 1) + C</div><div class='step'><i>Step 3 — </i>jab denominator ka derivative numerator me maujood ho, substitution sabse tez marg hai.</div>"
+    },
+    {
+      "id": 132,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫ {dx~√(1 − x²)} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "sin⁻¹ x + C"
+        },
+        {
+          "id": "B",
+          "html": "ln(1 − x²) + C"
+        },
+        {
+          "id": "C",
+          "html": "cos⁻¹ x + C"
+        },
+        {
+          "id": "D",
+          "html": "tan⁻¹ x + C"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Smaran rakho: {d~dx} sin⁻¹x = {1~√(1 − x²)}</div><div class='step'><i>Step 2 — </i>atah uttar sin⁻¹x + C</div><div class='step'><i>Step 3 — </i>cos⁻¹x ka derivative negative aata hai</div><div class='step'><i>Step 4 — </i>denominator me 1 + x² hota to tan⁻¹x milta — keval nishaan ka farak hai.</div>"
+    },
+    {
+      "id": 133,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫_(0)^(∞) e^({−t~τ}) dt equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "τ²"
+        },
+        {
+          "id": "B",
+          "html": "τ"
+        },
+        {
+          "id": "C",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "html": "0"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Antiderivative = −τe^({−t~τ}) — τ uthakar bahar aa jaata hai</div><div class='step'><i>Step 2 — </i>upper limit t → ∞ par value 0</div><div class='step'><i>Step 3 — </i>lower limit t = 0 par value −τ</div><div class='step'><i>Step 4 — </i>uttar 0 − (−τ) = τ, isiliye τ ko kul kshetraphal kahte hain.</div>"
+    },
+    {
+      "id": 134,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "The solution of the differential equation {dN~dt} = −λN is",
+      "options": [
+        {
+          "id": "A",
+          "html": "N = N₀ − λt"
+        },
+        {
+          "id": "B",
+          "html": "N = {N₀~λt}"
+        },
+        {
+          "id": "C",
+          "html": "N = N₀e^(−λt)"
+        },
+        {
+          "id": "D",
+          "html": "N = N₀e^(λt)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Chal-pṛthakkaran: {dN~N} = −λ dt</div><div class='step'><i>Step 2 — </i>donon taraf integrate: ln N = −λt + C</div><div class='step'><i>Step 3 — </i>initial condition t = 0, N = N₀ se C = ln N₀</div><div class='step'><i>Step 4 — </i>uttar N = N₀e^(−λt) — negative exponent kshay dikhata hai.</div>"
+    },
+    {
+      "id": 135,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫₁ᵉ {dx~x} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "e"
+        },
+        {
+          "id": "B",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "html": "ln 2"
+        },
+        {
+          "id": "D",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>∫ {dx~x} = ln x</div><div class='step'><i>Step 2 — </i>limits: ln e − ln 1 = 1 − 0 = 1</div><div class='step'><i>Step 3 — </i>yahi curve y = {1~x} ke neeche x = 1 se x = e tak ka kshetraphal hai — natural logarithm ki zyamiitiyak paribhasha.</div>"
+    },
+    {
+      "id": 136,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫₁² (2t + 3) dt equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "6"
+        },
+        {
+          "id": "B",
+          "html": "8"
+        },
+        {
+          "id": "C",
+          "html": "10"
+        },
+        {
+          "id": "D",
+          "html": "5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Antiderivative: t² + 3t</div><div class='step'><i>Step 2 — </i>upper limit t = 2 par 4 + 6 = 10</div><div class='step'><i>Step 3 — </i>lower limit t = 1 par 1 + 3 = 4</div><div class='step'><i>Step 4 — </i>uttar 10 − 4 = 6 — keval 10 likh dena common galti hai.</div>"
+    },
+    {
+      "id": 137,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "{d~dx} ∫₀ˣ t² dt equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "html": "x²"
+        },
+        {
+          "id": "C",
+          "html": "{x³~3}"
+        },
+        {
+          "id": "D",
+          "html": "2x"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Kalan ke maulik pryay se: {d~dx} ∫ₐˣ f(t)dt = f(x)</div><div class='step'><i>Step 2 — </i>yahaan f(t) = t², atah seedha uttar x²</div><div class='step'><i>Step 3 — </i>pehle integrate karke phir derivative lena vyarth mehnat hai, aur constant bhi zero hi aayega.</div>"
+    },
+    {
+      "id": 138,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫₀¹ {dx~1 + x²} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "html": "{π~2}"
+        },
+        {
+          "id": "C",
+          "html": "{π~4}"
+        },
+        {
+          "id": "D",
+          "html": "ln 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Standard integral: ∫ {dx~1 + x²} = tan⁻¹x + C</div><div class='step'><i>Step 2 — </i>limits: tan⁻¹1 − tan⁻¹0 = {π~4} − 0</div><div class='step'><i>Step 3 — </i>denominator me 1 − x² hota to {1~2}ln{1 + x~1 − x} jaisa roop milta.</div>"
+    },
+    {
+      "id": 139,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫ eˣ(1 + x) dx equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "eˣ + C"
+        },
+        {
+          "id": "B",
+          "html": "(1 + x)eˣ + C"
+        },
+        {
+          "id": "C",
+          "html": "{eˣ~1 + x} + C"
+        },
+        {
+          "id": "D",
+          "html": "x eˣ + C"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Pehchan lo: ∫ eˣ[f(x) + f′(x)]dx = eˣ f(x) + C</div><div class='step'><i>Step 2 — </i>yahaan f = x aur f′ = 1, jo integrand se bilkul mel khaata hai</div><div class='step'><i>Step 3 — </i>uttar x eˣ + C (by-parts se bhi wahi, par pehchan tez hai).</div>"
+    },
+    {
+      "id": 140,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "The value of ∫₀² (3x² − 2) dx is",
+      "options": [
+        {
+          "id": "A",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "html": "8"
+        },
+        {
+          "id": "D",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Antiderivative: x³ − 2x</div><div class='step'><i>Step 2 — </i>upper limit x = 2 par 8 − 4 = 4</div><div class='step'><i>Step 3 — </i>lower limit x = 0 par 0</div><div class='step'><i>Step 4 — </i>uttar 4 − 0 = 4. Curve 0 se √{2~3} tak negative rehta hai, uske baad positive.</div>"
+    },
+    {
+      "id": 141,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "The work W = ∫₀³ 6x² dx, expressed in joules, equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "162"
+        },
+        {
+          "id": "B",
+          "html": "54"
+        },
+        {
+          "id": "C",
+          "html": "18"
+        },
+        {
+          "id": "D",
+          "html": "27"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>∫ 6x²dx = {6x³~3} = 2x³</div><div class='step'><i>Step 2 — </i>limits: 2(3)³ − 2(0)³ = 2 × 27 = 54 J</div><div class='step'><i>Step 3 — </i>27 J me coefficient 2 chhoot gaya, 18 J me average-force wali truti aur 162 J me ghaat galat hai.</div>"
+    },
+    {
+      "id": 142,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Logarithms",
+      "questionHtml": "If log₁₀2 = 0.301, then log₁₀5 equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "0.5"
+        },
+        {
+          "id": "B",
+          "html": "1.301"
+        },
+        {
+          "id": "C",
+          "html": "0.699"
+        },
+        {
+          "id": "D",
+          "html": "0.301"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Logarithms</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>5 ko {10~2} roop me likho</div><div class='step'><i>Step 2 — </i>bhaag ke niyam se log 10 − log 2 = 1 − 0.301</div><div class='step'><i>Step 3 — </i>uttar 0.699 — division, logs ke antar ke barabar hota hai.</div>"
+    },
+    {
+      "id": 143,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Logarithms",
+      "questionHtml": "If ln x = 3, then the value of x is approximately",
+      "options": [
+        {
+          "id": "A",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "html": "6.7"
+        },
+        {
+          "id": "D",
+          "html": "20.1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Logarithms</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>ln x = 3 ka arth x = e³ (logarithm ki paribhasha)</div><div class='step'><i>Step 2 — </i>e ≈ 2.718, atah e³ ≈ 2.718 × 2.718 × 2.718 ≈ 20.1</div><div class='step'><i>Step 3 — </i>9 ya 3 sochna isliye galat kyunki ln ka aadhar 10 nahi, e hai.</div>"
+    },
+    {
+      "id": 144,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Logarithms",
+      "questionHtml": "If 3ˣ = 20, then x equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "{log 20~log 3}"
+        },
+        {
+          "id": "B",
+          "html": "{20~3}"
+        },
+        {
+          "id": "C",
+          "html": "{log 3~log 20}"
+        },
+        {
+          "id": "D",
+          "html": "60"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Logarithms</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Donon taraf log lo: x log 3 = log 20</div><div class='step'><i>Step 2 — </i>iskar x = {log 20~log 3}</div><div class='step'><i>Step 3 — </i>values daalo to {1.301~0.477} ≈ 2.73</div><div class='step'><i>Step 4 — </i>aadhar same ho to ghaataankon ki tulna seedhi hoti hai</div><div class='step'><i>Step 5 — </i>anupat ulta karne par 0.37 aa jaayega.</div>"
+    },
+    {
+      "id": 145,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Logarithms",
+      "questionHtml": "The expression log a + log b − log c simplifies to",
+      "options": [
+        {
+          "id": "A",
+          "html": "log ({a~c} + b)"
+        },
+        {
+          "id": "B",
+          "html": "log {ab~c}"
+        },
+        {
+          "id": "C",
+          "html": "log(a + b − c)"
+        },
+        {
+          "id": "D",
+          "html": "log(abc)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Logarithms</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>jod gunaa ban jaata hai: log a + log b = log(ab)</div><div class='step'><i>Step 2 — </i>ghataav bhaag ban jaata hai: log(ab) − log c = log {ab~c}</div><div class='step'><i>Step 3 — </i>ye niyam keval ek hi aadhar ke logarithms par saath lagu hote hain.</div>"
+    },
+    {
+      "id": 146,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Binomial & Series",
+      "questionHtml": "Using the binomial approximation, the value of √1.04 is",
+      "options": [
+        {
+          "id": "A",
+          "html": "1.002"
+        },
+        {
+          "id": "B",
+          "html": "0.98"
+        },
+        {
+          "id": "C",
+          "html": "1.02"
+        },
+        {
+          "id": "D",
+          "html": "1.04"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Binomial & Series</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>1.04 = 1 + 0.04 aur (1 + x)ⁿ ≈ 1 + nx, jo |x| ≪ 1 ke liye maany hai</div><div class='step'><i>Step 2 — </i>yahaan n = {1~2}, atah 1 + {1~2} × 0.04 = 1.02</div><div class='step'><i>Step 3 — </i>exact √1.04 = 1.0198 — approximation isi ke bahut paas deta hai.</div>"
+    },
+    {
+      "id": 147,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Binomial & Series",
+      "questionHtml": "In the expansion of (1 + y)^({1~2}), the term containing y² is",
+      "options": [
+        {
+          "id": "A",
+          "html": "+{y²~4}"
+        },
+        {
+          "id": "B",
+          "html": "{y²~2}"
+        },
+        {
+          "id": "C",
+          "html": "−{y²~2}"
+        },
+        {
+          "id": "D",
+          "html": "−{y²~8}"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Binomial & Series</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Is pad ka gunaaank {n(n − 1)~2!} hota hai</div><div class='step'><i>Step 2 — </i>n = {1~2} rakhne par {(0.5)(−0.5)~2} = −{1~8}</div><div class='step'><i>Step 3 — </i>atah pad = −{y²~8}. Yeh negative pad batata hai ki 1 + {y~2} thoda adhik value de deta hai.</div>"
+    },
+    {
+      "id": 148,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Binomial & Series",
+      "questionHtml": "The Maclaurin series of sin x is",
+      "options": [
+        {
+          "id": "A",
+          "html": "x − {x³~3!} + {x⁵~5!} − …"
+        },
+        {
+          "id": "B",
+          "html": "1 − {x²~2!} + {x⁴~4!} − …"
+        },
+        {
+          "id": "C",
+          "html": "x + {x³~3!} + {x⁵~5!}"
+        },
+        {
+          "id": "D",
+          "html": "eˣ − e⁻ˣ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Binomial & Series</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>sin x ek odd function hai, isliye keval odd ghaaten aayengi</div><div class='step'><i>Step 2 — </i>x = 0 par derivatives ka pattern 1, 0, −1, 0, +1 … hai, nishaan ekantar badalte hain</div><div class='step'><i>Step 3 — </i>uttar x − {x³~3!} + {x⁵~5!} − …</div><div class='step'><i>Step 4 — </i>dusra option cos x (even function) ka vistar hai.</div>"
+    },
+    {
+      "id": 149,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Binomial & Series",
+      "questionHtml": "lim (x→0) {1 − cos x~x²} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "html": "{1~2}"
+        },
+        {
+          "id": "C",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Binomial & Series</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Seedha put karne par {0~0} roop banta hai, atah series istemaal karo</div><div class='step'><i>Step 2 — </i>cos x = 1 − {x²~2!} + {x⁴~4!} − …, isse 1 − cos x ≈ {x²~2}</div><div class='step'><i>Step 3 — </i>limit = {x²~2} ÷ x² → {1~2}</div><div class='step'><i>Step 4 — </i>L'Hospital niyam se bhi wahi.</div>"
+    },
+    {
+      "id": 150,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Binomial & Series",
+      "questionHtml": "lim (x→0) {sin ax~x} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "html": "{1~a}"
+        },
+        {
+          "id": "C",
+          "html": "a"
+        },
+        {
+          "id": "D",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Binomial & Series</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>L'Hospital niyam: numerator ka derivative a cos ax, denominator ka derivative 1</div><div class='step'><i>Step 2 — </i>donon par x = 0 rakhne par a cos 0 = a</div><div class='step'><i>Step 3 — </i>yehi standard limit {sin ax~ax} → 1 ka dusra roop hai, jo chhote-kon approximation ki bunyaad hai.</div>"
+    },
+    {
+      "id": 151,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Binomial & Series",
+      "questionHtml": "The expansion of ln(1 + x), for small values of x, is",
+      "options": [
+        {
+          "id": "A",
+          "html": "x + {x²~2} + {x³~3}"
+        },
+        {
+          "id": "B",
+          "html": "x − {x²~2} − {x³~3}"
+        },
+        {
+          "id": "C",
+          "html": "1 + x − {x²~2}"
+        },
+        {
+          "id": "D",
+          "html": "x − {x²~2} + {x³~3}"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Binomial & Series</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Pehle jaani hui series: {1~1 + x} = 1 − x + x² − x³ + …</div><div class='step'><i>Step 2 — </i>iska 0 se x tak pad-dar-pad integration karo</div><div class='step'><i>Step 3 — </i>milta hai x − {x²~2} + {x³~3} − …, jo |x| ke 1 se kam hone par abhisarit hoti hai.</div>"
+    },
+    {
+      "id": 152,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Trigonometry",
+      "questionHtml": "Using the small-angle approximation, the value of sin 2° is",
+      "options": [
+        {
+          "id": "A",
+          "html": "0.035"
+        },
+        {
+          "id": "B",
+          "html": "0.017"
+        },
+        {
+          "id": "C",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "html": "0.02"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Trigonometry</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Sab pehle degrees ko radians me badlo: 2° = {2π~180} = 0.0349 rad</div><div class='step'><i>Step 2 — </i>chhote kon ke liye sinθ ≈ θ maan lo</div><div class='step'><i>Step 3 — </i>uttar 0.035 — degree me direct approximation lagana niyam-virudh hai.</div>"
+    },
+    {
+      "id": 153,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Trigonometry",
+      "questionHtml": "For a very small angle θ, the quantity tanθ is approximately",
+      "options": [
+        {
+          "id": "A",
+          "html": "θ²"
+        },
+        {
+          "id": "B",
+          "html": "θ"
+        },
+        {
+          "id": "C",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "html": "{1~θ}"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Trigonometry</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>tanθ = {sinθ~cosθ} likho</div><div class='step'><i>Step 2 — </i>chhote kon par sinθ ≈ θ aur cosθ ≈ 1 − {θ²~2} ≈ 1</div><div class='step'><i>Step 3 — </i>anupat keval θ ban jaata hai</div><div class='step'><i>Step 4 — </i>yahi approximation lola ka T = 2π√{l~g} nikalne deta hai.</div>"
+    },
+    {
+      "id": 154,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Trigonometry",
+      "questionHtml": "One radian, expressed in degrees, is nearly",
+      "options": [
+        {
+          "id": "A",
+          "html": "90°"
+        },
+        {
+          "id": "B",
+          "html": "3.14°"
+        },
+        {
+          "id": "C",
+          "html": "57.3°"
+        },
+        {
+          "id": "D",
+          "html": "1°"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Trigonometry</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>π rad = 180° (paribhasha se)</div><div class='step'><i>Step 2 — </i>iskar 1 rad = {180~π} = 57.3°</div><div class='step'><i>Step 3 — </i>trikonaamitiyak fhalanon ke derivative aur integral ke sutr tabhi sahi hain jab kon radians me maapa gaya ho.</div>"
+    },
+    {
+      "id": 155,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Errors & Units",
+      "questionHtml": "In T = 2π√{l~g}, if the percentage errors in l and g are 2% and 1%, the maximum percentage error in T is",
+      "options": [
+        {
+          "id": "A",
+          "html": "3%"
+        },
+        {
+          "id": "B",
+          "html": "2%"
+        },
+        {
+          "id": "C",
+          "html": "0.5%"
+        },
+        {
+          "id": "D",
+          "html": "1.5%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Errors & Units</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Truti-prasar: ghaat relative truti ko multiply karta hai</div><div class='step'><i>Step 2 — </i>{ΔT~T} = {1~2}{Δl~l} + {1~2}{Δg~g}</div><div class='step'><i>Step 3 — </i>= {1~2}(2%) + {1~2}(1%) = 1% + 0.5% = 1.5%</div><div class='step'><i>Step 4 — </i>constant 2π koi truti nahi deta.</div>"
+    },
+    {
+      "id": 156,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Errors & Units",
+      "questionHtml": "For a density ρ = {m~V} with percentage errors of 2% in mass and 3% in volume, the maximum percentage error in ρ is",
+      "options": [
+        {
+          "id": "A",
+          "html": "5%"
+        },
+        {
+          "id": "B",
+          "html": "6%"
+        },
+        {
+          "id": "C",
+          "html": "1%"
+        },
+        {
+          "id": "D",
+          "html": "1.5%"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Errors & Units</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Gunaaank ya bhaag me saapeksh trutiyaan judti hain</div><div class='step'><i>Step 2 — </i>{Δρ~ρ} = {Δm~m} + {ΔV~V} = 2% + 3%</div><div class='step'><i>Step 3 — </i>uttar 5% — yeh adhikatam seema hai</div><div class='step'><i>Step 4 — </i>trutiyaan svatantra (random) hon to √(2² + 3²) ≈ 3.6% lagta.</div>"
+    },
+    {
+      "id": 157,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Graphs",
+      "questionHtml": "The area under a velocity–time graph represents",
+      "options": [
+        {
+          "id": "A",
+          "html": "force"
+        },
+        {
+          "id": "B",
+          "html": "displacement"
+        },
+        {
+          "id": "C",
+          "html": "acceleration"
+        },
+        {
+          "id": "D",
+          "html": "speed"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Graphs</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Paribhasha se: s = ∫ v dt</div><div class='step'><i>Step 2 — </i>har patli patti ka kshetraphal v × Δt, unka yog = displacement</div><div class='step'><i>Step 3 — </i>usi graph ki slope {dv~dt} tvaran deti hai — kshetraphal aur slope me chunav dhyan se karo.</div>"
+    },
+    {
+      "id": 158,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "For x = 2t² − 6t + 4, the acceleration at t = 3 s is",
+      "options": [
+        {
+          "id": "A",
+          "html": "2 m s⁻²"
+        },
+        {
+          "id": "B",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "html": "4 m s⁻²"
+        },
+        {
+          "id": "D",
+          "html": "−6 m s⁻²"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>v = {dx~dt} = 4t − 6 aur a = {dv~dt} = 4 m s⁻²</div><div class='step'><i>Step 2 — </i>yeh samay se mukt hai, atah t = 3 s par bhi 4 m s⁻²</div><div class='step'><i>Step 3 — </i>x–t graph parabolik hai yaani tvaran akar</div><div class='step'><i>Step 4 — </i> −6 to velocity ka prarambhik gunaaank hai.</div>"
+    },
+    {
+      "id": 159,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Graphs",
+      "questionHtml": "As shown in the figure, the work done by the force over the displacement from 0 to 4 m is",
+      "options": [
+        {
+          "id": "A",
+          "html": "20 J"
+        },
+        {
+          "id": "B",
+          "html": "40 J"
+        },
+        {
+          "id": "C",
+          "html": "16 J"
+        },
+        {
+          "id": "D",
+          "html": "24 J"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Graphs</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>W = ∫ F dx = vakra ke neeche ka kshetraphal</div><div class='step'><i>Step 2 — </i>yahaan trapezium bana hai (F = 2 N se 10 N tak)</div><div class='step'><i>Step 3 — </i>kshetraphal = {1~2}(2 + 10)(4) = 24 J</div><div class='step'><i>Step 4 — </i>same result ∫₀⁴ (2 + 2x)dx = [2x + x²]₀⁴ = 8 + 16 = 24 J.</div>"
+    },
+    {
+      "id": 160,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Graphs",
+      "questionHtml": "The slope of the tangent to an x–t graph at a point gives",
+      "options": [
+        {
+          "id": "A",
+          "html": "instantaneous velocity"
+        },
+        {
+          "id": "B",
+          "html": "average velocity"
+        },
+        {
+          "id": "C",
+          "html": "acceleration"
+        },
+        {
+          "id": "D",
+          "html": "total displacement"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Graphs</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Tangent ki slope = seema me {Δx~Δt} = {dx~dt}, arthaat usi kshn ka velocity</div><div class='step'><i>Step 2 — </i>do binduon ko milane wali jya (chord) ki slope ausat velocity deti hai</div><div class='step'><i>Step 3 — </i>jahan graph flat hai (ucchisht bindu) vahaan slope zero, atah velocity zero.</div>"
+    },
+    {
+      "id": 161,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Graphs",
+      "questionHtml": "The slope of the tangent to the curve y = {1~x + a} at x = 0 is",
+      "options": [
+        {
+          "id": "A",
+          "html": "{1~a}"
+        },
+        {
+          "id": "B",
+          "html": "−{1~a²}"
+        },
+        {
+          "id": "C",
+          "html": "+{1~a²}"
+        },
+        {
+          "id": "D",
+          "html": "−a"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Graphs</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Ghaat −1 me likho: y = (x + a)^(-1)</div><div class='step'><i>Step 2 — </i>{dy~dx} = −(x + a)^(-2)</div><div class='step'><i>Step 3 — </i>x = 0 rakhne par −{1~a²}. Curve neeche ki or ja raha hai, isliye slope negative hi aana chahiye.</div>"
+    },
+    {
+      "id": 162,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Graphs",
+      "questionHtml": "If x varies as t√t, then the velocity varies with time as",
+      "options": [
+        {
+          "id": "A",
+          "html": "remains constant"
+        },
+        {
+          "id": "B",
+          "html": "∝ {1~√t}"
+        },
+        {
+          "id": "C",
+          "html": "∝ √t"
+        },
+        {
+          "id": "D",
+          "html": "∝ t"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Graphs</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>x = kt√t maankar derivative lo: v = {3k~2}√t, yaani v ∝ √t</div><div class='step'><i>Step 2 — </i>tvaran a = {dv~dt} = {3k~4√t} — samay ke saath ghat-ta hai</div><div class='step'><i>Step 3 — </i>graph ka slope badhta hai par curvature kam hoti jaati hai.</div>"
+    },
+    {
+      "id": 163,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "Over one complete cycle, the average value of sin²ωt is",
+      "options": [
+        {
+          "id": "A",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "html": "{2~π}"
+        },
+        {
+          "id": "D",
+          "html": "{1~2}"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Sarvasmrika: sin²θ = {1 − cos 2θ~2}</div><div class='step'><i>Step 2 — </i>poore chakron me cos 2ωt ka ausat zero hota hai (samiti se)</div><div class='step'><i>Step 3 — </i>atah ausat = {1~2}</div><div class='step'><i>Step 4 — </i>isi liye prityaavarti dhara ki ausat shakti {1~2}i₀²R likhi jaati hai.</div>"
+    },
+    {
+      "id": 164,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "For x = t² + 2t in SI units, the velocity at t = 2 s is",
+      "options": [
+        {
+          "id": "A",
+          "html": "6 m s⁻¹"
+        },
+        {
+          "id": "B",
+          "html": "4 m s⁻¹"
+        },
+        {
+          "id": "C",
+          "html": "8 m s⁻¹"
+        },
+        {
+          "id": "D",
+          "html": "2 m s⁻¹"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Velocity = {dx~dt} = 2t + 2</div><div class='step'><i>Step 2 — </i>t = 2 s rakhne par 4 + 2 = 6 m s⁻¹</div><div class='step'><i>Step 3 — </i>yahi value x–t graph par usi bindu ki tangent ki slope se bhi padhi ja sakti hai.</div>"
+    },
+    {
+      "id": 165,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "A current is 1 A during the first half and 3 A during the second half of a cycle. Its rms value is",
+      "options": [
+        {
+          "id": "A",
+          "html": "2.5 A"
+        },
+        {
+          "id": "B",
+          "html": "√5 A"
+        },
+        {
+          "id": "C",
+          "html": "2 A"
+        },
+        {
+          "id": "D",
+          "html": "√2 A"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>rms ka arth: root of the mean of the squares</div><div class='step'><i>Step 2 — </i>square karo: 1² = 1 aur 3² = 9</div><div class='step'><i>Step 3 — </i>mean = {1 + 9~2} = 5, atah root = √5 ≈ 2.24 A</div><div class='step'><i>Step 4 — </i>saadhaaran ausat 2 A hamesha rms se kam aata hai.</div>"
+    },
+    {
+      "id": 166,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "The minimum value of K = 2v² − 8v + 10 is",
+      "options": [
+        {
+          "id": "A",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "html": "8"
+        },
+        {
+          "id": "C",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "html": "10"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Ativyapti ke liye {dK~dv} = 4v − 8 = 0 se v = 2</div><div class='step'><i>Step 2 — </i>K(2) = 2(4) − 8(2) + 10 = 8 − 16 + 10 = 6</div><div class='step'><i>Step 3 — </i>doosra derivative {d²K~dv²} = +4, yaani dhan, atah yeh bindu nyoontam hai.</div>"
+    },
+    {
+      "id": 167,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "For x = 4t − 3t², the velocity becomes zero at the time t equal to",
+      "options": [
+        {
+          "id": "A",
+          "html": "{4~3} s"
+        },
+        {
+          "id": "B",
+          "html": "1 s"
+        },
+        {
+          "id": "C",
+          "html": "0 s"
+        },
+        {
+          "id": "D",
+          "html": "{2~3} s"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>v = {dx~dt} = 4 − 6t</div><div class='step'><i>Step 2 — </i>ishe zero ke barabar rakho: 4 − 6t = 0</div><div class='step'><i>Step 3 — </i>t = {2~3} s — yahi ucchisht kshn hai, jahan velocity timik roop se zero hoti hai par tvaran −6 m s⁻² bana rehta hai.</div>"
+    },
+    {
+      "id": 168,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "A particle starts with u = 10 m s⁻¹ and moves with a = −2 m s⁻². Its displacement is maximum at the time t equal to",
+      "options": [
+        {
+          "id": "A",
+          "html": "5 s"
+        },
+        {
+          "id": "B",
+          "html": "10 s"
+        },
+        {
+          "id": "C",
+          "html": "2 s"
+        },
+        {
+          "id": "D",
+          "html": "25 s"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Displacement tab adhiktam jab palta hai, arthaat v = 0</div><div class='step'><i>Step 2 — </i>v = u + at se 0 = 10 − 2t</div><div class='step'><i>Step 3 — </i>iskar t = 5 s</div><div class='step'><i>Step 4 — </i>us kshn tak displacement {u²~2a} = 25 m hoga — prashn me samay maanga gaya hai.</div>"
+    },
+    {
+      "id": 169,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "A constant force of 10 N acts for 2 s. The change in momentum, in kg m s⁻¹, is",
+      "options": [
+        {
+          "id": "A",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "html": "20"
+        },
+        {
+          "id": "C",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "html": "10"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Aavedya–sanveg pramay: Δp = ∫ F dt</div><div class='step'><i>Step 2 — </i>bal akar hai to integral saadhaaran gunaaank ban jaata hai: 10 × 2 = 20</div><div class='step'><i>Step 3 — </i>chhota bal lambe samay tak lage to bhi bada sanveg-parivartan mil sakta hai.</div>"
+    },
+    {
+      "id": 170,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "For U(x) = 4x² − 8x, the equilibrium position and its nature are",
+      "options": [
+        {
+          "id": "A",
+          "html": "x = 0, neutral"
+        },
+        {
+          "id": "B",
+          "html": "x = 1, unstable"
+        },
+        {
+          "id": "C",
+          "html": "x = 1, stable"
+        },
+        {
+          "id": "D",
+          "html": "x = 2, unstable"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Bal F = −{dU~dx} = −(8x − 8)</div><div class='step'><i>Step 2 — </i>samya ke liye F = 0 se x = 1</div><div class='step'><i>Step 3 — </i>{d²U~dx²} = +8, yaani dhan, arthaat sthiti-urja nyoontam hai</div><div class='step'><i>Step 4 — </i>urja-vakra ka nyoontam bindu sthaayi samya dikhata hai.</div>"
+    },
+    {
+      "id": 171,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "A sample contains 10⁶ nuclei with a half-life of 10⁵ s. The number of nuclei remaining after 3 × 10⁵ s is",
+      "options": [
+        {
+          "id": "A",
+          "html": "0.5 × 10⁶"
+        },
+        {
+          "id": "B",
+          "html": "0.25 × 10⁶"
+        },
+        {
+          "id": "C",
+          "html": "2 × 10⁵"
+        },
+        {
+          "id": "D",
+          "html": "0.125 × 10⁶"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Kitne ardh-aayu bate: n = {3 × 10⁵~10⁵} = 3</div><div class='step'><i>Step 2 — </i>N = N₀{1~2}ⁿ = {10⁶~2³} = {10⁶~8}</div><div class='step'><i>Step 3 — </i>uttar 0.125 × 10⁶</div><div class='step'><i>Step 4 — </i>N = N₀e^(−λt) me λ = {ln 2~T½} daalne se bhi yahi milta hai.</div>"
+    },
+    {
+      "id": 172,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "The perpendicular distance of the point (2, 3) from the line 3x + 4y = 12 is",
+      "options": [
+        {
+          "id": "A",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "html": "{12~5}"
+        },
+        {
+          "id": "C",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "html": "5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Sutra d = {|Ax₀ + By₀ + C|~√(A² + B²)}</div><div class='step'><i>Step 2 — </i>ansh = |3(2) + 4(3) − 12| = |12 − 12| = 0</div><div class='step'><i>Step 3 — </i>atah d = 0 — bindu rekhapar hi sthit hai</div><div class='step'><i>Step 4 — </i> aise prashn me yahi pehli janch hai.</div>"
+    },
+    {
+      "id": 173,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "The period of small oscillations of a simple pendulum of length 1 m, taking g = 10 m s⁻², is",
+      "options": [
+        {
+          "id": "A",
+          "html": "6.28 s"
+        },
+        {
+          "id": "B",
+          "html": "2 s"
+        },
+        {
+          "id": "C",
+          "html": "1 s"
+        },
+        {
+          "id": "D",
+          "html": "4 s"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>T = 2π√{l~g} = 6.28 × √{1~10}</div><div class='step'><i>Step 2 — </i>√0.1 ≈ 0.316, atah T ≈ 6.28 × 0.316 ≈ 1.99 ≈ 2 s</div><div class='step'><i>Step 3 — </i>yeh sutra keval sinθ ≈ θ wali laghu-ikuti dohon ke liye maany hai.</div>"
+    },
+    {
+      "id": 174,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "A charge flows with a current i = 2t (in amperes) from t = 0 to t = 3 s. The total charge, in coulombs, is",
+      "options": [
+        {
+          "id": "A",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "html": "12"
+        },
+        {
+          "id": "C",
+          "html": "9"
+        },
+        {
+          "id": "D",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>i = {dq~dt} se q = ∫ i dt = ∫₀³ 2t dt</div><div class='step'><i>Step 2 — </i>antiderivative t², evaluate: 3² − 0 = 9</div><div class='step'><i>Step 3 — </i>uttar 9 C</div><div class='step'><i>Step 4 — </i>i–t graph ka trikon {1~2} × 3 × 6 = 9 C se turant janch ho jaati hai.</div>"
+    },
+    {
+      "id": 175,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "A body starts from rest with an acceleration a = 4t m s⁻². Its velocity at t = 3 s is",
+      "options": [
+        {
+          "id": "A",
+          "html": "12 m s⁻¹"
+        },
+        {
+          "id": "B",
+          "html": "4 m s⁻¹"
+        },
+        {
+          "id": "C",
+          "html": "36 m s⁻¹"
+        },
+        {
+          "id": "D",
+          "html": "18 m s⁻¹"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>dv = a dt integrate karo: v = ∫₀³ 4t dt = [2t²]₀³</div><div class='step'><i>Step 2 — </i>= 2(3)² − 0 = 18 m s⁻¹ (v₀ = 0 hone se integration constant zero)</div><div class='step'><i>Step 3 — </i>a–t graph ka kshetraphal {1~2} × 3 × 12 = 18 se bhi wahi.</div>"
+    },
+    {
+      "id": 176,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "If the electric potential is V = {k~r}, then the field E = −{dV~dr} varies with r as",
+      "options": [
+        {
+          "id": "A",
+          "html": "∝ {1~r²}"
+        },
+        {
+          "id": "B",
+          "html": "∝ {1~r}"
+        },
+        {
+          "id": "C",
+          "html": "∝ r"
+        },
+        {
+          "id": "D",
+          "html": "∝ {1~r³}"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>V = k r⁻¹ likho</div><div class='step'><i>Step 2 — </i>{dV~dr} = −k r⁻²</div><div class='step'><i>Step 3 — </i>E = −{dV~dr} = {k~r²}, arthaat E ∝ {1~r²}</div><div class='step'><i>Step 4 — </i>negative nishaan keval disha batata hai (jis or potential ghat raha hai).</div>"
+    },
+    {
+      "id": 177,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "The moment of inertia of a uniform rod of mass M and length L, about a perpendicular axis through its centre, is",
+      "options": [
+        {
+          "id": "A",
+          "html": "{ML²~2}"
+        },
+        {
+          "id": "B",
+          "html": "{ML²~12}"
+        },
+        {
+          "id": "C",
+          "html": "{ML²~3}"
+        },
+        {
+          "id": "D",
+          "html": "ML²"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Rekhik ghanta λ = {M~L} aur element dm = λ dx</div><div class='step'><i>Step 2 — </i>I = ∫ x²dm = λ{x³~3}, limits −{L~2} se +{L~2}</div><div class='step'><i>Step 3 — </i>= λ{L³~12} = {ML²~12}</div><div class='step'><i>Step 4 — </i>axis rod ke sire par se guzre to limits 0 se L aur uttar {ML²~3}.</div>"
+    },
+    {
+      "id": 178,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "The volume of a cone of base radius 0.1 m and height 0.3 m, keeping π, is",
+      "options": [
+        {
+          "id": "A",
+          "html": "0.03π m³"
+        },
+        {
+          "id": "B",
+          "html": "0.0001π m³"
+        },
+        {
+          "id": "C",
+          "html": "0.001π m³"
+        },
+        {
+          "id": "D",
+          "html": "0.003π m³"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Height z par trijya rakheek ghat-ti hai: r(1 − {z~h})</div><div class='step'><i>Step 2 — </i>disk ka aayatan πr² dz me samakalit karo</div><div class='step'><i>Step 3 — </i>V = {πr²h~3} = {π(0.01)(0.3)~3} = 0.001π m³ — same base aur height ke vartul ka ek-tehaai bhaag.</div>"
+    },
+    {
+      "id": 179,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Work & Energy",
+      "questionHtml": "The work done by the force F = 4 − x newtons over the displacement from 0 to 3 m is",
+      "options": [
+        {
+          "id": "A",
+          "html": "12 J"
+        },
+        {
+          "id": "B",
+          "html": "4.5 J"
+        },
+        {
+          "id": "C",
+          "html": "3 J"
+        },
+        {
+          "id": "D",
+          "html": "7.5 J"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Work & Energy</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>W = ∫₀³ (4 − x)dx = [4x − {x²~2}]₀³</div><div class='step'><i>Step 2 — </i>= (12 − 4.5) − 0 = 7.5 J</div><div class='step'><i>Step 3 — </i>12 J tab aayega jab bal ko akar 4 N maan liya jaaye</div><div class='step'><i>Step 4 — </i>graph ka trapezium {1~2}(4 + 1)(3) = 7.5 se janch karo.</div>"
+    },
+    {
+      "id": 180,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "A force of 8 N makes an angle of 60° with the x-axis. Its y-component and the value of tanθ are",
+      "options": [
+        {
+          "id": "A",
+          "html": "4√3 N and √3"
+        },
+        {
+          "id": "B",
+          "html": "4 N and 1"
+        },
+        {
+          "id": "C",
+          "html": "8√3 N and 2"
+        },
+        {
+          "id": "D",
+          "html": "4√3 N and {1~√2}"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Jis axis se kon maapa jaata hai, us ka component cos se milta hai</div><div class='step'><i>Step 2 — </i>Fₓ = 8 cos 60° = 4 N aur F_y = 8 sin 60° = 4√3 N</div><div class='step'><i>Step 3 — </i>tanθ = {F_y~Fₓ} = {4√3~4} = √3, jo 60° ke saath mel khaata hai.</div>"
+    },
+    {
+      "id": 181,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "If A = 2î + λĵ and B = 3î − 4ĵ add up to a vector along the x-axis, then λ equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "html": "−4"
+        },
+        {
+          "id": "D",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>A + B = 5î + (λ − 4)ĵ</div><div class='step'><i>Step 2 — </i>x-axis ke anudish ka arth hai ki ĵ ka component zero ho</div><div class='step'><i>Step 3 — </i>λ − 4 = 0 se λ = 4 — disha-nibandh ko equation me badalna hi is prashn ki kali hai.</div>"
+    },
+    {
+      "id": 182,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "A tangential force of 40 N acts at a distance r = 0.5 m from the axis. The magnitude of the torque is",
+      "options": [
+        {
+          "id": "A",
+          "html": "80 N m"
+        },
+        {
+          "id": "B",
+          "html": "2 N m"
+        },
+        {
+          "id": "C",
+          "html": "20 N m"
+        },
+        {
+          "id": "D",
+          "html": "0"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Bal-aaghurn τ = rF sinθ, jahaan θ, r aur F ke beech ka kon hai</div><div class='step'><i>Step 2 — </i>spurshiya bal ke liye θ = 90° aur sin 90° = 1, yaani aaghurn adhiktam</div><div class='step'><i>Step 3 — </i>τ = 0.5 × 40 = 20 N m. Bal trijya ke anudish hota to τ zero.</div>"
+    },
+    {
+      "id": 183,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "The angle between the vectors A = î + √3 ĵ and B = î − √3 ĵ is",
+      "options": [
+        {
+          "id": "A",
+          "html": "60°"
+        },
+        {
+          "id": "B",
+          "html": "90°"
+        },
+        {
+          "id": "C",
+          "html": "150°"
+        },
+        {
+          "id": "D",
+          "html": "120°"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>A · B = 1(1) + √3(−√3) = 1 − 3 = −2</div><div class='step'><i>Step 2 — </i>|A| = |B| = √(1 + 3) = 2</div><div class='step'><i>Step 3 — </i>cosθ = {−2~4} = −{1~2} se θ = 120°</div><div class='step'><i>Step 4 — </i>dot product negative ho to kon 90° se adhika hota hai.</div>"
+    },
+    {
+      "id": 184,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "A boat moves at 3 m s⁻¹ due north while the current flows at 1 m s⁻¹ due east. Its speed relative to the ground and the angle with the east direction are",
+      "options": [
+        {
+          "id": "A",
+          "html": "√10, 71.6°"
+        },
+        {
+          "id": "B",
+          "html": "4, 90°"
+        },
+        {
+          "id": "C",
+          "html": "√10, 45°"
+        },
+        {
+          "id": "D",
+          "html": "2, 71.6°"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>East = x aur north = y maankar v = 1î + 3ĵ</div><div class='step'><i>Step 2 — </i>|v| = √(1² + 3²) = √10 ≈ 3.16 m s⁻¹</div><div class='step'><i>Step 3 — </i>kon = tan⁻¹{3~1} = 71.6°</div><div class='step'><i>Step 4 — </i>sankhyaon ko seedha jodna (4 m s⁻¹) keval tab sahi hai jab donon ek hi rekha me hon.</div>"
+    },
+    {
+      "id": 185,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "Statement 1: for non-zero vectors, A · B = 0 means they are perpendicular. Statement 2: A · B is a scalar. Statement 3: A · B = 0 forces A = 0 or B = 0. The correct statements are",
+      "options": [
+        {
+          "id": "A",
+          "html": "Only 3"
+        },
+        {
+          "id": "B",
+          "html": "1 and 2"
+        },
+        {
+          "id": "C",
+          "html": "1, 2 and 3"
+        },
+        {
+          "id": "D",
+          "html": "Only 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>A · B = AB cosθ</div><div class='step'><i>Step 2 — </i> non-zero vectors me yeh keval cosθ = 0 se zero hota hai, yaani θ = 90° — Statement 1 sahi</div><div class='step'><i>Step 3 — </i>result sankhya aur cosθ ka gunaan hai, koi disha nahi — Statement 2 sahi</div><div class='step'><i>Step 4 — </i>beejganit ka ab = 0 wala tark vectors par lagu nahi hota — Statement 3 galat.</div>"
+    },
+    {
+      "id": 186,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "From the identity A × (B × C) = B(A · C) − C(A · B), the vector A × (B × C) lies",
+      "options": [
+        {
+          "id": "A",
+          "html": "always along C"
+        },
+        {
+          "id": "B",
+          "html": "in the plane of A and B"
+        },
+        {
+          "id": "C",
+          "html": "in the plane of B and C"
+        },
+        {
+          "id": "D",
+          "html": "perpendicular to A and outside that plane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Daayaan paksh αB + βC ke roop me hai, jahaan α = A · C aur β = A · B</div><div class='step'><i>Step 2 — </i>B aur C ke aise kisii bhi rekhik snyojan ka vector unhi ke tal me rehta hai</div><div class='step'><i>Step 3 — </i>smaran-niyam: BAC − CAB.</div>"
+    },
+    {
+      "id": 187,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "The scalar projection of A = 3î + 4ĵ on the direction of B = 5î + 12ĵ is",
+      "options": [
+        {
+          "id": "A",
+          "html": "{3~5}"
+        },
+        {
+          "id": "B",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "html": "{63~169}"
+        },
+        {
+          "id": "D",
+          "html": "{63~13}"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>Saraksh prakshhep = {A · B~|B|}</div><div class='step'><i>Step 2 — </i>A · B = 15 + 48 = 63 aur |B| = √(25 + 144) = 13</div><div class='step'><i>Step 3 — </i>uttar {63~13} ≈ 4.85</div><div class='step'><i>Step 4 — </i>|B| se bhaag karna bhool jaane par 63 mil jaata hai — yahi prachalit truti hai.</div>"
+    },
+    {
+      "id": 188,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "If A = 2î + ĵ + 3k̂ and B = 4î + λĵ + 6k̂ are parallel, then λ equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "html": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Samantarata ki shart: components samaanupati hone chahiye</div><div class='step'><i>Step 2 — </i>{4~2} = {6~3} = 2, atah {λ~1} = 2 hona chahiye</div><div class='step'><i>Step 3 — </i>iskar λ = 2. Doosra tareeka: A × B = 0 se bhi yahi shart milti hai.</div>"
+    },
+    {
+      "id": 189,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "For A = î + ĵ + k̂, B = ĵ + k̂ and C = î, the scalar triple product [A B C] equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "html": "−1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Yahaan A = B + C, atah teeno vectors ek hi tal me hain (samtliya)</div><div class='step'><i>Step 2 — </i>samtliya vectors se bana samaantaraaghtak chaptā hota hai, uska aayatan zero</div><div class='step'><i>Step 3 — </i>Determinant kholkar: 1(0) − 1(−1) + 1(−1) = 0 ✓.</div>"
+    },
+    {
+      "id": 190,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Vectors",
+      "questionHtml": "The cross product î × ĵ equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "html": "î + ĵ"
+        },
+        {
+          "id": "C",
+          "html": "k̂"
+        },
+        {
+          "id": "D",
+          "html": "−k̂"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Vectors</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Right-hand niyam: î se ĵ ki or ungli ghumaao, angootha k̂ dikhayega</div><div class='step'><i>Step 2 — </i>chakraakiy kram î → ĵ → k̂ me gunaanhan dhan milta hai</div><div class='step'><i>Step 3 — </i>kram badalne par ĵ × î = −k̂, aur ek hi aksh par î × î = 0.</div>"
+    },
+    {
+      "id": 191,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "If a = ct and the particle starts from rest, its velocity is",
+      "options": [
+        {
+          "id": "A",
+          "html": "ct"
+        },
+        {
+          "id": "B",
+          "html": "ct²"
+        },
+        {
+          "id": "C",
+          "html": "{ct²~4}"
+        },
+        {
+          "id": "D",
+          "html": "{ct²~2}"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>dv = a dt integrate karo: v = ∫₀ᵗ ct dt = c{t²~2} = {ct²~2}</div><div class='step'><i>Step 2 — </i>v₀ = 0 hone se integration constant zero</div><div class='step'><i>Step 3 — </i>a–t graph ke trikon ka kshetraphal {1~2} · t · (ct) se bhi wahi value milti hai.</div>"
+    },
+    {
+      "id": 192,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "The acceleration of a body on a smooth (frictionless) incline of 30°, taking g = 10 m s⁻², is",
+      "options": [
+        {
+          "id": "A",
+          "html": "5 m s⁻²"
+        },
+        {
+          "id": "B",
+          "html": "10 m s⁻²"
+        },
+        {
+          "id": "C",
+          "html": "8.66 m s⁻²"
+        },
+        {
+          "id": "D",
+          "html": "2.5 m s⁻²"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Gurutvaakarshak bal ka tal ke anudish wala bhaag mg sinθ hota hai</div><div class='step'><i>Step 2 — </i>ma = mg sin 30° se a = 10 × 0.5 = 5 m s⁻²</div><div class='step'><i>Step 3 — </i>mg cosθ keval abhilamb bal ko santulit karta hai, gati me yogdaan nahi deta.</div>"
+    },
+    {
+      "id": 193,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "Using the binomial approximation for L = ∫₀¹ √(1 + 4x²) dx, the value of L is about",
+      "options": [
+        {
+          "id": "A",
+          "html": "{4~3}"
+        },
+        {
+          "id": "B",
+          "html": "{5~3}"
+        },
+        {
+          "id": "C",
+          "html": "{7~3}"
+        },
+        {
+          "id": "D",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>(1 + u)^({1~2}) ≈ 1 + {u~2} lo aur u = 4x² rakho</div><div class='step'><i>Step 2 — </i>integrand ≈ 1 + 2x²</div><div class='step'><i>Step 3 — </i> iska samakalan: [x + {2x³~3}]₀¹ = 1 + {2~3} = {5~3} ≈ 1.67 m</div><div class='step'><i>Step 4 — </i>manyata 4x² ≪ 1 hai, isliye uttar anumaanit roop me liya gaya.</div>"
+    },
+    {
+      "id": 194,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "Over half an oscillation, the average magnitude of the restoring force for x = A sin ωt is",
+      "options": [
+        {
+          "id": "A",
+          "html": "{mω²A~2}"
+        },
+        {
+          "id": "B",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "html": "{2mω²A~π}"
+        },
+        {
+          "id": "D",
+          "html": "mω²A"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>Bal F = mω²A sinωt ka parimaann ausat nikaalna hai</div><div class='step'><i>Step 2 — </i>ausat = {ω~π}∫ F dt, limits 0 se {π~ω} tak (ardh-aavart)</div><div class='step'><i>Step 3 — </i>∫ sinωt dt = {2~ω} rakhne par uttar {2mω²A~π}</div><div class='step'><i>Step 4 — </i>|sin| ka ausat {2~π} aur sin² ka {1~2} — dono me bhed rakho.</div>"
+    },
+    {
+      "id": 195,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "The integral ∫_(1)^(∞) {kq~r²} dr represents",
+      "options": [
+        {
+          "id": "A",
+          "html": "the average field over the region"
+        },
+        {
+          "id": "B",
+          "html": "zero"
+        },
+        {
+          "id": "C",
+          "html": "the amount of charge"
+        },
+        {
+          "id": "D",
+          "html": "the potential kq at r = 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>kq∫_(1)^(∞) r⁻²dr = kq[−{1~r}]_(1)^(∞)</div><div class='step'><i>Step 2 — </i>upper limit par {1~r} → 0 aur lower limit par {1~1} = 1</div><div class='step'><i>Step 3 — </i>uttar kq, arthaat V = {kq~r} ka value r = 1 par, kyonki E = −{dV~dr}</div><div class='step'><i>Step 4 — </i>r → 0 par yeh samakalan apasaari ho jaata hai.</div>"
+    },
+    {
+      "id": 196,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "The maximum area of a rectangle whose perimeter is 40 m is",
+      "options": [
+        {
+          "id": "A",
+          "html": "100 m²"
+        },
+        {
+          "id": "B",
+          "html": "80 m²"
+        },
+        {
+          "id": "C",
+          "html": "200 m²"
+        },
+        {
+          "id": "D",
+          "html": "400 m²"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Bhujaayein x aur 20 − x (kyonki ardh-paridhi 20 m hai)</div><div class='step'><i>Step 2 — </i>kshetraphal A = x(20 − x)</div><div class='step'><i>Step 3 — </i>{dA~dx} = 20 − 2x = 0 se x = 10</div><div class='step'><i>Step 4 — </i>{d²A~dx²} = −2, yaani negative, atah adhiktam confirm hota hai, atah 100 m² — chaarbetu (square) hi shreshh hai.</div>"
+    },
+    {
+      "id": 197,
+      "difficultyClass": "t-hard",
+      "difficulty": "Advanced (JEE)",
+      "topicClass": "t-concept",
+      "topic": "Differentiation",
+      "questionHtml": "If x = a cos ωt and y = a sin ωt, then {dx~dt} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "aω cos ωt"
+        },
+        {
+          "id": "B",
+          "html": "−aω sin ωt"
+        },
+        {
+          "id": "C",
+          "html": "aω sin ωt"
+        },
+        {
+          "id": "D",
+          "html": "−a sin ωt"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Differentiation</small></div><div class='ansline'>Sahi Jawab: <b>B</b></div><div class='step'><i>Step 1 — </i>Chain rule: {d(cos ωt)~dt} = −ω sinωt</div><div class='step'><i>Step 2 — </i>iskar {dx~dt} = −aω sinωt</div><div class='step'><i>Step 3 — </i>isi tarah {dy~dt} = aω cosωt</div><div class='step'><i>Step 4 — </i>donon ka varg-yog v² = a²ω² deta hai, yaani chaal akar rehti hai (vrttaaki gati).</div>"
+    },
+    {
+      "id": 198,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "The path traced out by the motion x = 3 cos t, y = 4 sin t is",
+      "options": [
+        {
+          "id": "A",
+          "html": "a parabola"
+        },
+        {
+          "id": "B",
+          "html": "a straight line"
+        },
+        {
+          "id": "C",
+          "html": "an ellipse"
+        },
+        {
+          "id": "D",
+          "html": "a circle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>C</b></div><div class='step'><i>Step 1 — </i>{x~3} = cos t aur {y~4} = sin t likho</div><div class='step'><i>Step 2 — </i>donon ka varg jodo: cos²t + sin²t = 1</div><div class='step'><i>Step 3 — </i>milta hai {x²~9} + {y²~16} = 1 — ardh-aksh 3 aur 4, atah deerghvritt</div><div class='step'><i>Step 4 — </i>dono ardh-aksh barabar hote to vritt milta.</div>"
+    },
+    {
+      "id": 199,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Calculus in Physics",
+      "questionHtml": "In a semiconductor {1~n}{dn~dx} = −10⁻⁷ m⁻¹ and {kT~e} = 0.026 V. The diffusion field E = −{kT~e}{1~n}{dn~dx} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "−2.6 × 10⁻⁹ V m⁻¹"
+        },
+        {
+          "id": "B",
+          "html": "2.6 × 10⁻⁷ V m⁻¹"
+        },
+        {
+          "id": "C",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "html": "2.6 × 10⁻⁹ V m⁻¹"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Calculus in Physics</small></div><div class='ansline'>Sahi Jawab: <b>D</b></div><div class='step'><i>Step 1 — </i>E = −(0.026) × (−10⁻⁷)</div><div class='step'><i>Step 2 — </i>do negative nishanon ka gunaaank dhan hota hai</div><div class='step'><i>Step 3 — </i>0.026 ko 2.6 × 10⁻² likho, ghaatein jodo: 10⁻² × 10⁻⁷ = 10⁻⁹</div><div class='step'><i>Step 4 — </i>uttar +2.6 × 10⁻⁹ V m⁻¹ — 10⁻⁷ isliye galat kyunki vah gunaaank ke bina aaata hai.</div>"
+    },
+    {
+      "id": 200,
+      "difficultyClass": "t-mod",
+      "difficulty": "NEET",
+      "topicClass": "t-concept",
+      "topic": "Integration",
+      "questionHtml": "∫ (cos x + sin x) dx evaluated from 0 to {π~2} equals",
+      "options": [
+        {
+          "id": "A",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "html": "{π~2}"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Integration</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'><i>Step 1 — </i>Rekhikta se donon ka alag-alag samakalan: ∫ cos x dx = sin x, ∫ sin x dx = −cos x</div><div class='step'><i>Step 2 — </i>limits: [sin x − cos x]_(0)^({π~2}) = (1 − 0) − (0 − 1)</div><div class='step'><i>Step 3 — </i>uttar 2 — pehle chaturthaans aur doosre chaturthaans ke kshetraphal aapas me barabar hote hain.</div>"
+    }
+  ]
+}
