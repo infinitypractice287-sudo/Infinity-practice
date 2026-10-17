@@ -1,0 +1,2807 @@
+{
+  "author": "Pradip Kar",
+  "youtubeChannel": "Practice with Infinity",
+  "title": "Basic Math and Calculus - Complete Question Bank",
+  "questions": [
+    {
+      "id": 1,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #1: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 1"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 1"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 1"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 1</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 2,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #2: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 2"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 2"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 2"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 2</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 3,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #3: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 3"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 3"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 3"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 3</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 4,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #4: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 4"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 4"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 4"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 4</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 5,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #5: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 5"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 5"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 5"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 5</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 6,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #6: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 6"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 6"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 6"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 6"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 6</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 7,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #7: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 7"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 7"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 7"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 7"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 7</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 8,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #8: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 8"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 8"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 8"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 8"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 8</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 9,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #9: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 9"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 9"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 9"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 9"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 9</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 10,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #10: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 10"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 10"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 10"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 10"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 10</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 11,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #11: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 11"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 11"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 11"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 11"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 11</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 12,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #12: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 12"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 12"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 12"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 12"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 12</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 13,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #13: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 13"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 13"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 13"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 13"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 13</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 14,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #14: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 14"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 14"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 14"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 14"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 14</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 15,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #15: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 15"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 15"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 15"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 15"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 15</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 16,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #16: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 16"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 16"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 16"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 16"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 16</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 17,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #17: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 17"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 17"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 17"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 17"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 17</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 18,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #18: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 18"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 18"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 18"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 18"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 18</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 19,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #19: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 19"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 19"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 19"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 19"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 19</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 20,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #20: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 20"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 20"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 20"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 20"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 20</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 21,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #21: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 21"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 21"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 21"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 21"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 21</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 22,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #22: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 22"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 22"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 22"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 22"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 22</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 23,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #23: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 23"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 23"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 23"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 23"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 23</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 24,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #24: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 24"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 24"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 24"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 24"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 24</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 25,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #25: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 25"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 25"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 25"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 25"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 25</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 26,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #26: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 26"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 26"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 26"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 26"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 26</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 27,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #27: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 27"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 27"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 27"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 27"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 27</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 28,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #28: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 28"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 28"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 28"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 28"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 28</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 29,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #29: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 29"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 29"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 29"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 29"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 29</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 30,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #30: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 30"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 30"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 30"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 30"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 30</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 31,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #31: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 31"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 31"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 31"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 31"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 31</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 32,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #32: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 32"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 32"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 32"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 32"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 32</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 33,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #33: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 33"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 33"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 33"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 33"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 33</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 34,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #34: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 34"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 34"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 34"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 34"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 34</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 35,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #35: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 35"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 35"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 35"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 35"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 35</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 36,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #36: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 36"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 36"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 36"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 36"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 36</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 37,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #37: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 37"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 37"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 37"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 37"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 37</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 38,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #38: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 38"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 38"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 38"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 38"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 38</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 39,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #39: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 39"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 39"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 39"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 39"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 39</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 40,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #40: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 40"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 40"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 40"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 40"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 40</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 41,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #41: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 41"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 41"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 41"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 41"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 41</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 42,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #42: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 42"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 42"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 42"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 42"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 42</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 43,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #43: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 43"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 43"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 43"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 43"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 43</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 44,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #44: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 44"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 44"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 44"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 44"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 44</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 45,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #45: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 45"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 45"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 45"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 45"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 45</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 46,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #46: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 46"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 46"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 46"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 46"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 46</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 47,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #47: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 47"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 47"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 47"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 47"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 47</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 48,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #48: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 48"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 48"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 48"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 48"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 48</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 49,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #49: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 49"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 49"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 49"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 49"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 49</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 50,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #50: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 50"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 50"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 50"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 50"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 50</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 51,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #51: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 51"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 51"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 51"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 51"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 51</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 52,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #52: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 52"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 52"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 52"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 52"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 52</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 53,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #53: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 53"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 53"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 53"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 53"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 53</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 54,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #54: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 54"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 54"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 54"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 54"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 54</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 55,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #55: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 55"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 55"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 55"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 55"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 55</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 56,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #56: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 56"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 56"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 56"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 56"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 56</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 57,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #57: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 57"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 57"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 57"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 57"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 57</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 58,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #58: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 58"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 58"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 58"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 58"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 58</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 59,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #59: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 59"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 59"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 59"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 59"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 59</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 60,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #60: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 60"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 60"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 60"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 60"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 60</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 61,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #61: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 61"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 61"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 61"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 61"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 61</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 62,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #62: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 62"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 62"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 62"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 62"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 62</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 63,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #63: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 63"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 63"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 63"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 63"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 63</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 64,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #64: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 64"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 64"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 64"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 64"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 64</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 65,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #65: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 65"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 65"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 65"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 65"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 65</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 66,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #66: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 66"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 66"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 66"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 66"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 66</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 67,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #67: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 67"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 67"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 67"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 67"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 67</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 68,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #68: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 68"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 68"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 68"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 68"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 68</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 69,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #69: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 69"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 69"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 69"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 69"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 69</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 70,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #70: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 70"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 70"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 70"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 70"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 70</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 71,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #71: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 71"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 71"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 71"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 71"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 71</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 72,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #72: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 72"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 72"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 72"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 72"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 72</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 73,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #73: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 73"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 73"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 73"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 73"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 73</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 74,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #74: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 74"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 74"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 74"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 74"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 74</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 75,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #75: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 75"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 75"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 75"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 75"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 75</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 76,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #76: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 76"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 76"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 76"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 76"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 76</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 77,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #77: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 77"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 77"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 77"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 77"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 77</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 78,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #78: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 78"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 78"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 78"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 78"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 78</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 79,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #79: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 79"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 79"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 79"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 79"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 79</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 80,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #80: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 80"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 80"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 80"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 80"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 80</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 81,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #81: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 81"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 81"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 81"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 81"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 81</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 82,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #82: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 82"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 82"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 82"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 82"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 82</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 83,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #83: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 83"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 83"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 83"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 83"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 83</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 84,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #84: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 84"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 84"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 84"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 84"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 84</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 85,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #85: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 85"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 85"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 85"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 85"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 85</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 86,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #86: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 86"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 86"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 86"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 86"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 86</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 87,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #87: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 87"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 87"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 87"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 87"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 87</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 88,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #88: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 88"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 88"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 88"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 88"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 88</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 89,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #89: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 89"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 89"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 89"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 89"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 89</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 90,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #90: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 90"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 90"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 90"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 90"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 90</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 91,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #91: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 91"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 91"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 91"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 91"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 91</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 92,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #92: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 92"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 92"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 92"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 92"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 92</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 93,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #93: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 93"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 93"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 93"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 93"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 93</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 94,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #94: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 94"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 94"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 94"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 94"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 94</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 95,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #95: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 95"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 95"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 95"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 95"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 95</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 96,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #96: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 96"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 96"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 96"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 96"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 96</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 97,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #97: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 97"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 97"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 97"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 97"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 97</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 98,
+      "difficultyClass": "t-hard",
+      "difficulty": "Hard",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #98: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 98"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 98"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 98"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 98"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 98</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 99,
+      "difficultyClass": "t-easy",
+      "difficulty": "Easy",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #99: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 99"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 99"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 99"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 99"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 99</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    },
+    {
+      "id": 100,
+      "difficultyClass": "t-mod",
+      "difficulty": "Moderate",
+      "topicClass": "t-concept",
+      "topic": "Calculus & Basic Math",
+      "questionHtml": "Basic Math & Calculus Practice Question #100: फलन (Function) का अवकलन या समाकलन हल करें।",
+      "options": [
+        {
+          "id": "A",
+          "html": "Option A for question 100"
+        },
+        {
+          "id": "B",
+          "html": "Option B for question 100"
+        },
+        {
+          "id": "C",
+          "html": "Option C for question 100"
+        },
+        {
+          "id": "D",
+          "html": "Option D for question 100"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanationHtml": "<div class='expl-h'>Explanation <small>Question 100</small></div><div class='ansline'>Sahi Jawab: <b>A</b></div><div class='step'>Is question ka detailed solution yahan diya gaya hai. Formula aur concepts ko achhe se samjhein.</div>"
+    }
+  ]
+}
