@@ -236,6 +236,18 @@ a.chapter-card{text-decoration:none;color:inherit}
 .chapter-card.revised .cc-go{color:#6d28d9}
 .badge-new{display:inline-block;background:#dc2626;color:#fff;font-size:11px;font-weight:900;border-radius:999px;
   padding:3px 10px;letter-spacing:.4px;vertical-align:3px;margin-left:8px;text-transform:uppercase;white-space:nowrap}
+
+/* ---------- practice sets hub (permanent single link) ---------- */
+.hub-banner{display:flex;align-items:center;gap:16px;background:linear-gradient(135deg,#3b0764,#6d28d9 55%,#8b5cf6);
+  color:#fff;border-radius:16px;padding:18px 22px;margin-top:18px;text-decoration:none;
+  box-shadow:0 10px 26px rgba(109,40,217,.25)}
+.hub-banner .hb-kicker{font-size:11.5px;letter-spacing:1.4px;font-weight:800;text-transform:uppercase;opacity:.85}
+.hub-banner h3{margin:4px 0;font-size:19px}
+.hub-banner p{margin:0;font-size:13.5px;opacity:.92}
+.hub-banner .hb-go{margin-left:auto;font-weight:900;white-space:nowrap;background:rgba(255,255,255,.16);
+  border:1px solid rgba(255,255,255,.35);padding:9px 16px;border-radius:999px}
+.hub-banner:hover .hb-go{background:rgba(255,255,255,.30)}
+@media (max-width:760px){ .hub-banner{flex-wrap:wrap} }
 .chap-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:10px;margin-top:12px}
 .chap{display:flex;align-items:center;gap:10px;background:#fff;border:1px dashed #dfe4f2;border-radius:12px;
   padding:11px 13px;font-size:14px;color:#3c4568}
@@ -291,6 +303,7 @@ details.fold[open]>summary{border-bottom:1px solid #eaeefb;margin-bottom:6px}
       <a data-nav="home" data-go="home" href="#/home">Home</a>
       <a data-nav="neet" data-go="neet" href="#/neet">NEET UG 2027</a>
       <a data-nav="jee"  data-go="jee"  href="#/jee">JEE Main 2027</a>
+      <a data-nav="sets" data-go="sets" href="#/sets">&#128193; Practice Sets</a>
     </nav>
   </div>
 </header>
@@ -312,6 +325,15 @@ details.fold[open]>summary{border-bottom:1px solid #eaeefb;margin-bottom:6px}
       <span>&#127919; +4 / &#8722;1 real exam pattern</span>
     </div>
   </div>
+
+  <a class="hub-banner" href="#/sets">
+    <div>
+      <div class="hb-kicker">&#128250; Always updated &#8212; permanent link</div>
+      <h3>&#128193; Sabhi Practice Sets &#8212; ek hi link par</h3>
+      <p>Naya ho ya purana &#8212; har question-bank isi ek link se milega. Link kabhi nahi badlega.</p>
+    </div>
+    <span class="hb-go">Kholo &#8594;</span>
+  </a>
 
   <h2 class="pick">Apna target chuno &#128071;</h2>
   <div class="target-grid">
@@ -372,6 +394,23 @@ details.fold[open]>summary{border-bottom:1px solid #eaeefb;margin-bottom:6px}
     (Basic Maths &amp; Calculus, Kinematics, Laws of Motion) wahan se practice shuru kar sakte ho.
     <span class="pill-soon">&#128679; JEE content coming soon</span>
   </div>
+</section>
+
+
+<section class="view" id="view-sets">
+  <a class="back" data-go="home" href="#/home">&#8592; Home</a>
+  <div class="page-h">
+    <h1>&#128193; Sabhi Practice Sets</h1>
+    <p>Ek hi link, hamesha updated &#8212; jab bhi website par naya question-bank upload hoga, wahi isi page par apne aap dikh jayega.</p>
+  </div>
+  <div id="sets-list"></div>
+  <noscript>
+    <div class="notice"><b>&#128268; JavaScript off hai.</b> Direct link:
+      <a href="NEET_Basic_Math_Calculus_200_Revised.html#/chapter-basicmaths">Basic Maths &amp; Calculus &#8212; Revised 200 Q Set</a></div>
+  </noscript>
+  <div class="notice"><b>&#10024; Kaise kaam karta hai?</b> Is page ka link <b>kabhi nahi badlega</b> (<b>#/sets</b>).
+    Naya upload live aane ke khud-ba-khud yahan list mein aa jata hai &#8212; purane link se hi naya set bhi khulega.
+    <b>&#9654;&#65039; Practice with Infinity</b></div>
 </section>
 
 
@@ -824,6 +863,7 @@ Options: <svg style="vertical-align: -1.602ex;" xmlns="http://www.w3.org/2000/sv
   </div>
 </footer>
 
+<script src="practice-sets.js"></script>
 <script>
 /* =====================================================================
    Practice with Infinity — site router + interactive test engine
@@ -839,6 +879,7 @@ Options: <svg style="vertical-align: -1.602ex;" xmlns="http://www.w3.org/2000/sv
     'neet': 'NEET UG 2027 — Subjects | Practice with Infinity',
     'jee': 'JEE Main 2027 — Subjects | Practice with Infinity',
     'neet-physics': 'NEET Physics — Chapters | Practice with Infinity',
+    'sets': 'Sabhi Practice Sets | Practice with Infinity',
     'chapter-basicmaths': 'Basic Maths & Calculus — 400 Marks Mock Test | Practice with Infinity'
   };
 
@@ -850,11 +891,12 @@ Options: <svg style="vertical-align: -1.602ex;" xmlns="http://www.w3.org/2000/sv
       if (on) { found = true; }
     });
     if (!found) { return false; }
-    var navKey = (id.indexOf('neet') === 0) ? 'neet' : (id.indexOf('jee') === 0) ? 'jee' : 'home';
+    var navKey = (id.indexOf('neet') === 0) ? 'neet' : (id.indexOf('jee') === 0) ? 'jee' : (id.indexOf('sets') === 0) ? 'sets' : 'home';
     document.querySelectorAll('[data-nav]').forEach(function (a) {
       a.classList.toggle('on', a.getAttribute('data-nav') === navKey);
     });
     if (TITLES[id]) { document.title = TITLES[id]; }
+    if (id === 'sets') { autoDiscoverSets(); }
     window.scrollTo(0, 0);
     return true;
   }
@@ -875,6 +917,78 @@ Options: <svg style="vertical-align: -1.602ex;" xmlns="http://www.w3.org/2000/sv
       if (('#' + '/' + dest) === location.hash) { route(); } else { location.hash = '#/' + dest; }
     }
   });
+
+  /* ---------------- Practice Sets hub (permanent single link) ---------------- */
+  var SETS_FALLBACK = [
+    { internal: '#/chapter-basicmaths',
+      title: 'Basic Mathematics & Calculus — Original 100 Q Test',
+      kicker: 'NEET UG 2027 · Physics · Chapter 1',
+      chips: ['100 Questions', '400 Marks', '+4 / \u22121', '27 Figures', '100 Min'],
+      note: 'Site ke andar embedded original interactive test — Chapter 1.' },
+    { file: 'NEET_Basic_Math_Calculus_200_Revised.html', route: '#/chapter-basicmaths',
+      badge: '\uD83C\uDD95 Naya',
+      title: 'Basic Mathematics & Calculus — Revised 200 Q Set',
+      kicker: 'NEET UG 2027 · Physics · Chapter 1',
+      chips: ['200 Questions', '800 Marks', '+4 / \u22121', '45 Figures', '200 Min'],
+      note: 'Chapter 1 ka expanded + revised question bank — naye tab mein khulta hai.' }
+  ];
+  var setsData = (window.PRACTICE_SETS && window.PRACTICE_SETS.length)
+    ? window.PRACTICE_SETS.slice() : SETS_FALLBACK.slice();
+  var setsFetched = false;
+
+  function setCardHtml(s, i) {
+    var n = ((i + 1) < 10 ? '0' : '') + (i + 1);
+    var chips = (s.chips || []).map(function (c) { return '<span class="chip">' + c + '</span>'; }).join('');
+    var badge = s.badge ? ' <span class="badge-new">' + s.badge + '</span>' : '';
+    var href = s.internal || (s.file + (s.route || ''));
+    var ext = s.internal ? '' : ' target="_blank" rel="noopener"';
+    return '<a class="chapter-card" href="' + href + '"' + ext + '>' +
+      '<div class="cc-num">' + n + '</div>' +
+      '<div class="cc-body"><h3>' + s.title + badge + '</h3>' +
+      '<p class="cc-meta">' + chips + '</p>' +
+      (s.kicker ? '<p class="cc-note">' + s.kicker + '</p>' : '') +
+      (s.note ? '<p class="cc-note">' + s.note + '</p>' : '') +
+      '</div><div class="cc-go">Open &#8594;</div></a>';
+  }
+
+  function renderSets() {
+    var host = document.getElementById('sets-list');
+    if (!host) { return; }
+    var html = '';
+    setsData.forEach(function (s, i) { html += setCardHtml(s, i); });
+    host.innerHTML = html;
+  }
+
+  function autoDiscoverSets() {
+    if (setsFetched) { return; }
+    setsFetched = true;
+    var host = document.getElementById('sets-list');
+    if (!host || !window.fetch) { return; }
+    fetch('https://api.github.com/repos/infinitypractice287-sudo/Infinity-practice/contents/')
+      .then(function (r) { return r.ok ? r.json() : []; })
+      .then(function (files) {
+        if (!files || !files.length) { return; }
+        var known = { 'index.html': 1, '404.html': 1 };
+        setsData.forEach(function (s) { if (s.file) { known[s.file] = 1; } });
+        files.forEach(function (f) {
+          var nm = f.name || '';
+          if (f.type !== 'file' || nm.slice(-5) !== '.html' || known[nm]) { return; }
+          if (nm.indexOf('google') === 0 || nm.indexOf('verify') === 0) { return; }
+          setsData.push({
+            file: nm, badge: 'Auto',
+            title: nm.slice(0, -5).replace(/[_-]+/g, ' '),
+            chips: ['Naya Upload'],
+            note: 'Repository mein naya HTML file auto-detect hua.'
+          });
+          var div = document.createElement('div');
+          div.innerHTML = setCardHtml(setsData[setsData.length - 1], setsData.length - 1);
+          while (div.firstChild) { host.appendChild(div.firstChild); }
+        });
+      })
+      .catch(function () { /* offline / rate-limit — manifest list remains */ });
+  }
+
+  renderSets();
 
   /* ---------------- Interactive test engine ---------------- */
   var cards = Array.prototype.slice.call(document.querySelectorAll('.q'));
