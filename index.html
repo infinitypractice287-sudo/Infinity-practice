@@ -1000,6 +1000,10 @@
   window.location.href = "data/index1physics.html";
   return;
         }
+        if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "some-basic-concepts") {
+  window.location.href = "data/index1chemistry.html";
+  return;
+        }
         state.mode = control.dataset.mode; state.screen = "tool";
         state.quizIndex = 0; state.quizScore = 0; state.quizSelected = null; state.quizChecked = false;
       } else if (action === "back-chapter") {
