@@ -993,11 +993,27 @@
         state.chapterId = control.dataset.chapter; state.screen = "chapter";
       } else if (action === "back-subject") {
         state.screen = "subject"; state.mode = null;
-      } else if (action === "open-mode") {
-        state.mode = control.dataset.mode; state.screen = "tool";
-        state.quizIndex = 0; state.quizScore = 0; state.quizSelected = null; state.quizChecked = false;
-      } else if (action === "back-chapter") {
-        state.screen = "chapter"; state.mode = null;
+      
+} else if (action === "open-mode") {
+  state.mode = control.dataset.mode;
+
+  if (
+    state.subjectId === "physics" &&
+    state.chapterId === "basic-math-calculus" &&
+    state.mode === "questions"
+  ) {
+    window.location.href = "data/index1physics.html";
+    return;
+  }
+
+  state.screen = "tool";
+  state.quizIndex = 0;
+  state.quizScore = 0;
+  state.quizSelected = null;
+  state.quizChecked = false;
+}
+
+      
       } else if (action === "select-option") {
         if (!state.quizChecked) state.quizSelected = Number(control.dataset.index);
       } else if (action === "check-answer") {
