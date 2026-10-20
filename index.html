@@ -994,6 +994,10 @@
       } else if (action === "back-subject") {
         state.screen = "subject"; state.mode = null;
       } else if (action === "open-mode") {
+        if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "basic-math-calculus") {
+  window.location.href = "data/index1physics.html";
+  return;
+        }
         state.mode = control.dataset.mode; state.screen = "tool";
         state.quizIndex = 0; state.quizScore = 0; state.quizSelected = null; state.quizChecked = false;
       } else if (action === "back-chapter") {
