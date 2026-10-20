@@ -1007,6 +1007,10 @@
   window.location.href = "data/index1chemistry.html";
   return;
         }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "cell-the-unit-of-life") {
+  window.location.href = "data/CellTheUnitofLife1question.html";
+  return;
+        }
         state.mode = control.dataset.mode; state.screen = "tool";
         state.quizIndex = 0; state.quizScore = 0; state.quizSelected = null; state.quizChecked = false;
       } else if (action === "back-chapter") {
