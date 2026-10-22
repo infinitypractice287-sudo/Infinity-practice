@@ -639,8 +639,22 @@
           { id: "structural-organisation-in-animals", name: "Structural Organisation in Animals", subtitle: "Foundation" }
 ]
       
-      }
+      },
+      {
+  id: "test",
+  name: "Test",
+  symbol: "questions",
+  summary: "Sample paper aur mock test practice.",
+  chapters: [
+    { id: "sample-paper-1", name: "Sample Paper 1", subtitle: "Sample Paper" }
+  ]
+}
     ];
+    
+const TEST_LINKS = {
+  // Test ki file upload hone ke baad yahan ek line add karna, jaise:
+  // "sample-paper-1": "data/SamplePaper1.html"
+};
 
     /*
       FUTURE CONTENT ADD KARNE KA TAREEQA (GitHub repository mein):
@@ -814,6 +828,21 @@
       const subject = getSubject();
       const chapter = getChapter();
       if (!subject || !chapter) { state.screen = subject ? "subject" : "subjects"; return subject ? renderSubject() : renderSubjects(); }
+      if (subject.id === "test") {
+  return `
+    <section class="view-enter">
+      ${viewTop("back-subject", `${subject.name} par wapas`)}
+      <div class="page-heading">
+        <div class="breadcrumb-label">NEET UG 2027 · ${subject.name}</div>
+        <h1>${escapeHtml(chapter.name)}</h1>
+      </div>
+      <div class="empty-state">
+        <span class="empty-icon" aria-hidden="true">${ICONS.questions}</span>
+        <h2>Coming soon</h2>
+        <p>Ye test jaldi hi yahan upload hoga.</p>
+      </div>
+    </section>`;
+      }
       const content = getContent();
       const notesCount = (content.notes || []).length + (content.noteFiles || []).length;
       const questionCount = (content.questions || []).length;
