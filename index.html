@@ -997,6 +997,10 @@
       } else if (action === "back-subjects") {
         state.screen = "subjects"; state.chapterId = null; state.mode = null;
       } else if (action === "open-chapter") {
+        if (state.subjectId === "test" && TEST_LINKS[control.dataset.chapter]) {
+  window.location.href = TEST_LINKS[control.dataset.chapter];
+  return;
+        }
         state.chapterId = control.dataset.chapter; state.screen = "chapter";
       } else if (action === "back-subject") {
         state.screen = "subject"; state.mode = null;
