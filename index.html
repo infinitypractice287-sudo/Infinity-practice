@@ -617,7 +617,8 @@
         summary: "Chapter-wise learning, practice aur study resources.",
         chapters: [
           { id: "basic-math-calculus", name: "Basic Math and Calculus", subtitle: "Foundation" },
-          { id: "Vector", name: "Vector", subtitle: "Foundation" }
+          { id: "Vector", name: "Vector", subtitle: "Foundation" },
+          { id: "Motion-in-a-straight-line", name: "Motion in a straight line", subtitle: "Foundation" }
         ]
       },
       {
@@ -1066,6 +1067,10 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "Redox-Reaction") {
   window.location.href = "data/redoxreactionpractice.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Motion-in-a-straight-line") {
+  window.location.href = "data/Motioninastraightlinepractice.html";
   return;
         }
         state.mode = control.dataset.mode; state.screen = "tool";
