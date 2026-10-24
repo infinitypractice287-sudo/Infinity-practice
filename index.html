@@ -626,7 +626,8 @@
         symbol: "chemistry",
         summary: "Chapter-wise learning, practice aur study resources.",
         chapters: [
-  { id: "some-basic-concepts", name: "Some Basic Concepts of Chemistry", subtitle: "Foundation" }
+  { id: "some-basic-concepts", name: "Some Basic Concepts of Chemistry", subtitle: "Foundation" },
+          { id: "Redox-Reaction", name: "Redox Reaction", subtitle: "Foundation" }
 ]
       },
       {
@@ -1061,6 +1062,10 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Vector") {
   window.location.href = "data/VectorsQuestion.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === ""Redox-Reaction") {
+  window.location.href = "data/redoxreactionpractice.html";
   return;
         }
         state.mode = control.dataset.mode; state.screen = "tool";
