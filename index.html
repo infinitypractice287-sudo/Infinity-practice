@@ -640,7 +640,8 @@
         chapters: [
   { id: "cell-the-unit-of-life", name: "Cell - The Unit of Life", subtitle: "Foundation" },
           { id: "structural-organisation-in-animals", name: "Structural Organisation in Animals", subtitle: "Foundation" },
-          { id: "Cell-Cycle-and-Cell-Division", name: "Cell Cycle and Cell Division", subtitle: "Foundation" }
+          { id: "Cell-Cycle-and-Cell-Division", name: "Cell Cycle and Cell Division", subtitle: "Foundation" },
+          { id: "The-Living-World", name: "The Living World", subtitle: "Foundation" }
 ]
       
       },
@@ -1083,6 +1084,10 @@ const TEST_LINKS = {
   window.location.href = "data/CellCycleandCellDivisionQuestion.html";
   return;
         }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "The-Living-World") {
+  window.location.href = "data/TheLivingWorldQuestion.html";
+  return;
+            }
         state.mode = control.dataset.mode; state.screen = "tool";
         state.quizIndex = 0; state.quizScore = 0; state.quizSelected = null; state.quizChecked = false;
       } else if (action === "back-chapter") {
