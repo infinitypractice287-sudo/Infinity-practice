@@ -642,7 +642,8 @@
           { id: "structural-organisation-in-animals", name: "Structural Organisation in Animals", subtitle: "Foundation" },
           { id: "Cell-Cycle-and-Cell-Division", name: "Cell Cycle and Cell Division", subtitle: "Foundation" },
           { id: "The-Living-World", name: "The Living World", subtitle: "Foundation" },
-          { id: "Biological-Classification", name: "Biological Classification", subtitle: "Foundation" }
+          { id: "Biological-Classification", name: "Biological Classification", subtitle: "Foundation" },
+          { id: "Breathing-and-Exchange-of-Gases", name: "Breathing and Exchange of Gases", subtitle: "Foundation" }
 ]
       
       },
@@ -1091,6 +1092,10 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Biological-Classification") {
   window.location.href = "data/BiologicalClassificationQuestion.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Breathing-and-Exchange-of-Gases") {
+  window.location.href = "data/BreathingandExchangeofGasesQuestion.html";
   return;
         }
         state.mode = control.dataset.mode; state.screen = "tool";
