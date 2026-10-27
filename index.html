@@ -618,7 +618,8 @@
         chapters: [
           { id: "basic-math-calculus", name: "Basic Math and Calculus", subtitle: "Foundation" },
           { id: "Vector", name: "Vector", subtitle: "Foundation" },
-          { id: "Motion-in-a-straight-line", name: "Motion in a straight line", subtitle: "Foundation" }
+          { id: "Motion-in-a-straight-line", name: "Motion in a straight line", subtitle: "Foundation" },
+          { id: "Motion-in-a-Plane", name: "Motion in a Plane", subtitle: "Foundation" }
         ]
       },
       {
@@ -1101,6 +1102,10 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Body-Fluids-and-Circulation") {
   window.location.href = "data/BodyFluidsandCirculationQuestion.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Motion-in-a-Plane") {
+  window.location.href = "data/MotioninaPlaneQuestion.html";
   return;
         }
         state.mode = control.dataset.mode; state.screen = "tool";
