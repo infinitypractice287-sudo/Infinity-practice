@@ -619,7 +619,8 @@
           { id: "basic-math-calculus", name: "Basic Math and Calculus", subtitle: "Foundation" },
           { id: "Vector", name: "Vector", subtitle: "Foundation" },
           { id: "Motion-in-a-straight-line", name: "Motion in a straight line", subtitle: "Foundation" },
-          { id: "Motion-in-a-Plane", name: "Motion in a Plane", subtitle: "Foundation" }
+          { id: "Motion-in-a-Plane", name: "Motion in a Plane", subtitle: "Foundation" },
+          { id: "Laws-of-motion", name: "Laws of motion", subtitle: "Foundation" }
         ]
       },
       {
@@ -1108,6 +1109,11 @@ const TEST_LINKS = {
   window.location.href = "data/MotioninaPlaneQuestion.html";
   return;
         }
+        if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Laws-of-motion") {
+  window.location.href = "data/LawsofMotionQuestion.html";
+  return;
+        }
+        
         state.mode = control.dataset.mode; state.screen = "tool";
         state.quizIndex = 0; state.quizScore = 0; state.quizSelected = null; state.quizChecked = false;
       } else if (action === "back-chapter") {
