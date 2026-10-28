@@ -620,7 +620,8 @@
           { id: "Vector", name: "Vector", subtitle: "Foundation" },
           { id: "Motion-in-a-straight-line", name: "Motion in a straight line", subtitle: "Foundation" },
           { id: "Motion-in-a-Plane", name: "Motion in a Plane", subtitle: "Foundation" },
-          { id: "Laws-of-motion", name: "Laws of motion", subtitle: "Foundation" }
+          { id: "Laws-of-motion", name: "Laws of motion", subtitle: "Foundation" },
+          { id: "Circular-Motion", name: "Circular Motion", subtitle: "Foundation" }
         ]
       },
       {
@@ -1111,6 +1112,10 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Laws-of-motion") {
   window.location.href = "data/LawsofMotionQuestion.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Circular-Motion") {
+  window.location.href = "data/CircularMotionQuestion.html";
   return;
         }
         
