@@ -632,7 +632,8 @@
         chapters: [
   { id: "some-basic-concepts", name: "Some Basic Concepts of Chemistry", subtitle: "Foundation" },
           { id: "Redox-Reaction", name: "Redox Reaction", subtitle: "Foundation" },
-          { id: "Solution", name: "Solution", subtitle: "Foundation" }
+          { id: "Solution", name: "Solution", subtitle: "Foundation" },
+          { id: "Thermodynamics-&-Thermochemistry", name: "Thermodynamics & Thermochemistry", subtitle: "Foundation" }
 ]
       },
       {
@@ -1116,6 +1117,10 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Circular-Motion") {
   window.location.href = "data/CircularMotionQuestion.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Thermodynamics-&-Thermochemistry") {
+  window.location.href = "data/Thermodynamics&ThermochemistryQuestion.html";
   return;
         }
         
