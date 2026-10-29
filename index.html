@@ -633,7 +633,10 @@
   { id: "some-basic-concepts", name: "Some Basic Concepts of Chemistry", subtitle: "Foundation" },
           { id: "Redox-Reaction", name: "Redox Reaction", subtitle: "Foundation" },
           { id: "Solution", name: "Solution", subtitle: "Foundation" },
-          { id: "Thermodynamics-&-Thermochemistry", name: "Thermodynamics & Thermochemistry", subtitle: "Foundation" }
+          { id: "Thermodynamics-&-Thermochemistry", name: "Thermodynamics & Thermochemistry", subtitle: "Foundation" },
+          { id: "Chemical-Equilibrium", name: "Chemical Equilibrium", subtitle: "Foundation" },
+          { id: "Electrochemistry", name: "Electrochemistry", subtitle: "Foundation" },
+          { id: "lonic-Equilibrium", name: "lonic Equilibrium", subtitle: "Foundation" }
 ]
       },
       {
@@ -1121,6 +1124,18 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "Thermodynamics-&-Thermochemistry") {
   window.location.href = "data/Thermodynamics&ThermochemistryQuestion.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "Chemical-Equilibrium") {
+  window.location.href = "data/ChemicalEquilibriumQuestion.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "Electrochemistry") {
+  window.location.href = "data/ElectrochemistryQuestion.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "lonic-Equilibrium") {
+  window.location.href = "data/lonicEquilibriumQuestion.html";
   return;
         }
         
