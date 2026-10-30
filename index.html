@@ -651,7 +651,10 @@
           { id: "The-Living-World", name: "The Living World", subtitle: "Foundation" },
           { id: "Biological-Classification", name: "Biological Classification", subtitle: "Foundation" },
           { id: "Breathing-and-Exchange-of-Gases", name: "Breathing and Exchange of Gases", subtitle: "Foundation" },
-          { id: "Body-Fluids-and-Circulation", name: "Body Fluids and Circulation", subtitle: "Foundation" }
+          { id: "Body-Fluids-and-Circulation", name: "Body Fluids and Circulation", subtitle: "Foundation" },
+          { id: "Anatomy-of-Flowering-Plants", name: "Anatomy of Flowering Plants", subtitle: "Foundation" },
+          { id: "Morphology-of-Flowering-Plants", name: "Morphology of Flowering Plants", subtitle: "Foundation" },
+          { id: "Plant-Kingdom", name: "Plant Kingdom", subtitle: "Foundation" }
 ]
       
       },
@@ -1136,6 +1139,18 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "lonic-Equilibrium") {
   window.location.href = "data/lonicEquilibriumQuestion.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Anatomy-of-Flowering-Plants") {
+  window.location.href = "data/AnatomyofFloweringPlants.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Morphology-of-Flowering-Plants") {
+  window.location.href = "data/MorphologyofFloweringPlants.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Plant-Kingdom") {
+  window.location.href = "data/PlantKingdomQuestion.html";
   return;
         }
         
