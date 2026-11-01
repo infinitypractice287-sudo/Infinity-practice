@@ -621,7 +621,10 @@
           { id: "Motion-in-a-straight-line", name: "Motion in a straight line", subtitle: "Foundation" },
           { id: "Motion-in-a-Plane", name: "Motion in a Plane", subtitle: "Foundation" },
           { id: "Laws-of-motion", name: "Laws of motion", subtitle: "Foundation" },
-          { id: "Circular-Motion", name: "Circular Motion", subtitle: "Foundation" }
+          { id: "Circular-Motion", name: "Circular Motion", subtitle: "Foundation" },
+          { id: "Centre-Of-Mass-and-System-of-Particles", name: "Centre Of Mass and System of Particles", subtitle: "Foundation" },
+          { id: "Rotational-Motion", name: "Rotational Motion", subtitle: "Foundation" },
+          { id: "Work-Energy-Power", name: "Work Energy Power", subtitle: "Foundation" }
         ]
       },
       {
@@ -1151,6 +1154,18 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Plant-Kingdom") {
   window.location.href = "data/PlantKingdomQuestion.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Centre-Of-Mass-and-System-of-Particles") {
+  window.location.href = "data/CentreOfMassandSystemofParticles.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Rotational-Motion") {
+  window.location.href = "data/RotationalMotionQustion.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Work-Energy-Power") {
+  window.location.href = "data/WorkEnergyPower.html";
   return;
         }
         
