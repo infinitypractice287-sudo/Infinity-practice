@@ -639,7 +639,10 @@
           { id: "Thermodynamics-&-Thermochemistry", name: "Thermodynamics & Thermochemistry", subtitle: "Foundation" },
           { id: "Chemical-Equilibrium", name: "Chemical Equilibrium", subtitle: "Foundation" },
           { id: "Electrochemistry", name: "Electrochemistry", subtitle: "Foundation" },
-          { id: "lonic-Equilibrium", name: "lonic Equilibrium", subtitle: "Foundation" }
+          { id: "lonic-Equilibrium", name: "lonic Equilibrium", subtitle: "Foundation" },
+          { id: "Structure-of-Atom", name: "Structure of Atom", subtitle: "Foundation" },
+          { id: "Practical-Physical-Chemistry", name: "Practical Physical Chemistry", subtitle: "Foundation" },
+          { id: "Chemical-Kinetics", name: "Chemical Kinetics", subtitle: "Foundation" }
 ]
       },
       {
@@ -1166,6 +1169,18 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Work-Energy-Power") {
   window.location.href = "data/WorkEnergyPower.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "Chemical-Kinetics") {
+  window.location.href = "data/Chemical Kinetics.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "Practical-Physical-Chemistry") {
+  window.location.href = "data/Practical Physical Chemistry.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "Structure-of-Atom") {
+  window.location.href = "data/Structure of Atom.html";
   return;
         }
         
