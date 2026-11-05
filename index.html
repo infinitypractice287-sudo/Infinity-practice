@@ -660,7 +660,10 @@
           { id: "Body-Fluids-and-Circulation", name: "Body Fluids and Circulation", subtitle: "Foundation" },
           { id: "Anatomy-of-Flowering-Plants", name: "Anatomy of Flowering Plants", subtitle: "Foundation" },
           { id: "Morphology-of-Flowering-Plants", name: "Morphology of Flowering Plants", subtitle: "Foundation" },
-          { id: "Plant-Kingdom", name: "Plant Kingdom", subtitle: "Foundation" }
+          { id: "Plant-Kingdom", name: "Plant Kingdom", subtitle: "Foundation" },
+          { id: "Excretory-Products-&-their-Elimination", name: "Excretory Products & their Elimination", subtitle: "Foundation" },
+          { id: "Locomotion-&-Movement", name: "Locomotion & Movement", subtitle: "Foundation" },
+          { id: "Neural-Control-&-Coordination", name: "Neural Control & Coordination", subtitle: "Foundation" }
 ]
       
       },
@@ -1181,6 +1184,18 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "Structure-of-Atom") {
   window.location.href = "data/Structure of Atom.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Excretory-Products-&-their-Elimination") {
+  window.location.href = "data/Excretory Products & their Elimination.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Locomotion-&-Movement") {
+  window.location.href = "data/Locomotion & Movement.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Neural-Control-&-Coordination") {
+  window.location.href = "data/Neural Control & Coordination.html";
   return;
         }
         
