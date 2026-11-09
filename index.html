@@ -624,7 +624,10 @@
           { id: "Circular-Motion", name: "Circular Motion", subtitle: "Foundation" },
           { id: "Centre-Of-Mass-and-System-of-Particles", name: "Centre Of Mass and System of Particles", subtitle: "Foundation" },
           { id: "Rotational-Motion", name: "Rotational Motion", subtitle: "Foundation" },
-          { id: "Work-Energy-Power", name: "Work Energy Power", subtitle: "Foundation" }
+          { id: "Work-Energy-Power", name: "Work Energy Power", subtitle: "Foundation" },
+          { id: "Mechanical-Properties-of-Solids", name: "Mechanical Properties of Solids", subtitle: "Foundation" },
+          { id: "oscillations", name: "oscillations", subtitle: "Foundation" },
+          { id: "Thermal-Properties-of-Matter", name: "Thermal Properties of Matter", subtitle: "Foundation" }
         ]
       },
       {
@@ -1196,6 +1199,17 @@ const TEST_LINKS = {
         }
         if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Neural-Control-&-Coordination") {
   window.location.href = "data/Neural Control & Coordination.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Mechanical-Properties-of-Solids") {
+  window.location.href = "data/Mechanical Properties of Solids.html";
+  return;
+        }if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "oscillations") {
+  window.location.href = "data/oscillations.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "physics" && state.chapterId === "Thermal-Properties-of-Matter") {
+  window.location.href = "data/Thermal Properties of Matter.html";
   return;
         }
         
