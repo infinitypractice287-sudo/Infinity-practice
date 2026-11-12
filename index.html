@@ -1217,6 +1217,10 @@ const TEST_LINKS = {
   window.location.href = "data/Thermal Properties of Matter.html";
   return;
         }
+        if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "Chemical-Bonding-&-Molecular-Structure") {
+  window.location.href = "data/Chemical Bonding & Molecular Structure.html";
+  return;
+        }
         
         
         state.mode = control.dataset.mode; state.screen = "tool";
