@@ -1221,6 +1221,10 @@ const TEST_LINKS = {
   window.location.href = "data/Chemical Bonding & Molecular Structure.html";
   return;
         }
+        if (control.dataset.mode === "questions" && state.subjectId === "chemistry" && state.chapterId === "Classification-of-Elements-and-Periodicity-in-Properties") {
+  window.location.href = "data/Classification of Elements and Periodicity in Properties.html";
+  return;
+        }
         
         
         state.mode = control.dataset.mode; state.screen = "tool";
