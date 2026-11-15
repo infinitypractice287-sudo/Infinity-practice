@@ -1232,6 +1232,18 @@ const TEST_LINKS = {
   window.location.href = "data/Coordination Compounds.html";
   return;
         }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Photosynthesis-in-Higher-Plants") {
+  window.location.href = "data/Photosynthesis in Higher Plants.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Plant-Growth-&-Development") {
+  window.location.href = "data/Plant Growth & Development.html";
+  return;
+        }
+        if (control.dataset.mode === "questions" && state.subjectId === "biology" && state.chapterId === "Respiration-in-Plants") {
+  window.location.href = "data/Respiration in Plants.html";
+  return;
+        }
         
         state.mode = control.dataset.mode; state.screen = "tool";
         state.quizIndex = 0; state.quizScore = 0; state.quizSelected = null; state.quizChecked = false;
